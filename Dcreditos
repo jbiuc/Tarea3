@@ -1,1237 +1,1237 @@
-Fecha ,Valor,Tipo,Proporcion
-2003-01-01,296866.7,Creditos a actividad empresarial,0.024734147
+Fecha ,Valor,Tipo,Proporcion 
 2003-01-01,20129.9, Bienes de consumo duradero,0.038833193
 2003-01-01,43682.1, Tarjeta de credito,0.084268447
-2003-01-01,12821.4,"Consumo (Otros, C. Personales y Nomina",0.237186912
-2003-01-01,21918.1,Intermediarios financieros no bancarios privados,0.572694439
-2003-01-01,122950.2,Vivienda,0.042282863
-2003-02-01,294082.1,Creditos a actividad empresarial,0.024618269
-2003-02-01,21514.3, Bienes de consumo duradero,0.041656429
-2003-02-01,43911.7, Tarjeta de credito,0.085022734
-2003-02-01,12714.6,"Consumo (Otros, C. Personales y Nomina",0.239017902
-2003-02-01,20801.9,Intermediarios financieros no bancarios privados,0.569407793
-2003-02-01,123445.6,Vivienda,0.040277065
-2003-03-01,291052.4,Creditos a actividad empresarial,0.024903101
-2003-03-01,22916.8, Bienes de consumo duradero,0.044478863
-2003-03-01,44446.5, Tarjeta de credito,0.086265525
-2003-03-01,12830.8,"Consumo (Otros, C. Personales y Nomina",0.236977538
-2003-03-01,21884.7,Intermediarios financieros no bancarios privados,0.564899103
-2003-03-01,122097.7,Vivienda,0.042475676
-2003-04-01,288923.1,Creditos a actividad empresarial,0.025869059
-2003-04-01,23773.5, Bienes de consumo duradero,0.046193916
-2003-04-01,45949.1, Tarjeta de credito,0.089282977
-2003-04-01,13313.4,"Consumo (Otros, C. Personales y Nomina",0.236390006
-2003-04-01,21029.6,Intermediarios financieros no bancarios privados,0.561401951
-2003-04-01,121657.1,Vivienda,0.040862286
-2003-05-01,299441.1,Creditos a actividad empresarial,0.026009216
-2003-05-01,24932.4, Bienes de consumo duradero,0.047232719
-2003-05-01,46543.8, Tarjeta de credito,0.088174032
-2003-05-01,13729.3,"Consumo (Otros, C. Personales y Nomina",0.22977652
-2003-05-01,21925.8,Intermediarios financieros no bancarios privados,0.567270592
-2003-05-01,121290.5,Vivienda,0.041536922
-2003-06-01,291011.1,Creditos a actividad empresarial,0.027819799
-2003-06-01,25436.1, Bienes de consumo duradero,0.048689387
-2003-06-01,48092, Tarjeta de credito,0.092056958
-2003-06-01,14533.5,"Consumo (Otros, C. Personales y Nomina",0.231498785
-2003-06-01,22404.3,Intermediarios financieros no bancarios privados,0.557048917
-2003-06-01,120938.6,Vivienda,0.042885962
-2003-07-01,285085,Creditos a actividad empresarial,0.030404762
-2003-07-01,26003.9, Bienes de consumo duradero,0.050540626
-2003-07-01,49071.2, Tarjeta de credito,0.095373739
-2003-07-01,15643.7,"Consumo (Otros, C. Personales y Nomina",0.228374966
-2003-07-01,21208.8,Intermediarios financieros no bancarios privados,0.55408513
-2003-07-01,117502.3,Vivienda,0.041220972
-2003-08-01,292013.6,Creditos a actividad empresarial,0.030587911
-2003-08-01,26756.9, Bienes de consumo duradero,0.050802453
-2003-08-01,51002.8, Tarjeta de credito,0.096837352
-2003-08-01,16110.2,"Consumo (Otros, C. Personales y Nomina",0.223020127
-2003-08-01,23340.2,Intermediarios financieros no bancarios privados,0.554436692
-2003-08-01,117461.4,Vivienda,0.044315276
-2003-09-01,291191.9,Creditos a actividad empresarial,0.03167941
-2003-09-01,31378.3, Bienes de consumo duradero,0.058802243
-2003-09-01,52869, Tarjeta de credito,0.099075342
-2003-09-01,16904.9,"Consumo (Otros, C. Personales y Nomina",0.220249007
-2003-09-01,23749.8,Intermediarios financieros no bancarios privados,0.545687208
-2003-09-01,117530.2,Vivienda,0.044506602
-2003-10-01,291502.9,Creditos a actividad empresarial,0.034011857
-2003-10-01,31532.1, Bienes de consumo duradero,0.058824528
-2003-10-01,53532.2, Tarjeta de credito,0.099866688
-2003-10-01,18231.6,"Consumo (Otros, C. Personales y Nomina",0.217774682
-2003-10-01,24502.7,Intermediarios financieros no bancarios privados,0.543811561
-2003-10-01,116735.2,Vivienda,0.045710871
-2003-11-01,299019.1,Creditos a actividad empresarial,0.034298691
-2003-11-01,32223, Bienes de consumo duradero,0.058638811
-2003-11-01,55816.1, Tarjeta de credito,0.101573092
-2003-11-01,18847.7,"Consumo (Otros, C. Personales y Nomina",0.212413601
-2003-11-01,26885.9,Intermediarios financieros no bancarios privados,0.544149349
-2003-11-01,116724.8,Vivienda,0.048926456
-2003-12-01,301165.7,Creditos a actividad empresarial,0.03431851
-2003-12-01,36730.3, Bienes de consumo duradero,0.065819166
-2003-12-01,57924.8, Tarjeta de credito,0.103798826
-2003-12-01,19151.4,"Consumo (Otros, C. Personales y Nomina",0.208825323
-2003-12-01,26541.9,Intermediarios financieros no bancarios privados,0.539676376
-2003-12-01,116534.7,Vivienda,0.047561978
-2004-01-01,296291,Creditos a actividad empresarial,0.036070093
-2004-01-01,36522.7, Bienes de consumo duradero,0.065950308
-2004-01-01,57952.1, Tarjeta de credito,0.104646119
-2004-01-01,19975.3,"Consumo (Otros, C. Personales y Nomina",0.210600132
-2004-01-01,26421.4,Intermediarios financieros no bancarios privados,0.535022947
-2004-01-01,116628.5,Vivienda,0.047710039
-2004-02-01,295286.6,Creditos a actividad empresarial,0.036987612
-2004-02-01,39671.7, Bienes de consumo duradero,0.071138588
-2004-02-01,58940.4, Tarjeta de credito,0.105690879
-2004-02-01,20626.8,"Consumo (Otros, C. Personales y Nomina",0.209676442
-2004-02-01,26212.6,Intermediarios financieros no bancarios privados,0.52950269
-2004-02-01,116929.8,Vivienda,0.047003969
-2004-03-01,295934.6,Creditos a actividad empresarial,0.039567258
-2004-03-01,39457.8, Bienes de consumo duradero,0.069695277
-2004-03-01,61107.5, Tarjeta de credito,0.107935672
-2004-03-01,22400.9,"Consumo (Otros, C. Personales y Nomina",0.206703767
-2004-03-01,30221.8,Intermediarios financieros no bancarios privados,0.522716522
-2004-03-01,117024.8,Vivienda,0.053381505
-2004-04-01,300091.2,Creditos a actividad empresarial,0.040587055
-2004-04-01,39603, Bienes de consumo duradero,0.06884722
-2004-04-01,63730.4, Tarjeta de credito,0.110791123
-2004-04-01,23346.9,"Consumo (Otros, C. Personales y Nomina",0.204299948
-2004-04-01,30939.2,Intermediarios financieros no bancarios privados,0.521688882
-2004-04-01,117519.5,Vivienda,0.053785771
-2004-05-01,303869.9,Creditos a actividad empresarial,0.042438542
-2004-05-01,39952.3, Bienes de consumo duradero,0.068207842
-2004-05-01,65921.5, Tarjeta de credito,0.112543289
-2004-05-01,24858.1,"Consumo (Otros, C. Personales y Nomina",0.201164844
-2004-05-01,33310.7,Intermediarios financieros no bancarios privados,0.518776393
-2004-05-01,117831,Vivienda,0.05686909
-2004-06-01,306425.9,Creditos a actividad empresarial,0.043623848
-2004-06-01,40226.1, Bienes de consumo duradero,0.067534532
-2004-06-01,68739.8, Tarjeta de credito,0.115405427
-2004-06-01,25984,"Consumo (Otros, C. Personales y Nomina",0.197590984
-2004-06-01,36569.1,Intermediarios financieros no bancarios privados,0.514450316
-2004-06-01,117692.6,Vivienda,0.061394892
-2004-07-01,307558.3,Creditos a actividad empresarial,0.044760721
-2004-07-01,40722.7, Bienes de consumo duradero,0.067664901
-2004-07-01,71242.5, Tarjeta de credito,0.118376649
-2004-07-01,26938.3,"Consumo (Otros, C. Personales y Nomina",0.19769918
-2004-07-01,36386.1,Intermediarios financieros no bancarios privados,0.511039348
-2004-07-01,118981.1,Vivienda,0.0604592
-2004-08-01,308519.2,Creditos a actividad empresarial,0.044484239
-2004-08-01,42935.9, Bienes de consumo duradero,0.070448994
-2004-08-01,74289.8, Tarjeta de credito,0.121894304
-2004-08-01,27111.4,"Consumo (Otros, C. Personales y Nomina",0.196490242
-2004-08-01,36851.4,Intermediarios financieros no bancarios privados,0.506216643
-2004-08-01,119753.1,Vivienda,0.060465579
-2004-09-01,321057.9,Creditos a actividad empresarial,0.046137006
-2004-09-01,44152.9, Bienes de consumo duradero,0.07030702
-2004-09-01,77020.8, Tarjeta de credito,0.122644332
-2004-09-01,28974.1,"Consumo (Otros, C. Personales y Nomina",0.190938936
-2004-09-01,36885.8,Intermediarios financieros no bancarios privados,0.511237636
-2004-09-01,119909.9,Vivienda,0.058735229
-2004-10-01,341395.7,Creditos a actividad empresarial,0.046628232
-2004-10-01,46122, Bienes de consumo duradero,0.069890978
-2004-10-01,80312, Tarjeta de credito,0.121700799
-2004-10-01,30770.6,"Consumo (Otros, C. Personales y Nomina",0.183521477
-2004-10-01,40204.9,Intermediarios financieros no bancarios privados,0.517334014
-2004-10-01,121108.3,Vivienda,0.0609245
-2004-11-01,346268,Creditos a actividad empresarial,0.0476833
+2003-01-01,12821.4,"Consumo (Otros, C. Personales y Nomina",0.024734147
+2003-01-01,296866.7,Creditos a actividad empresarial,0.572694439
+2003-01-01,21918.1,Intermediarios financieros no bancarios privados,0.042282863
+2003-01-01,122950.2,Vivienda,0.237186912
+2003-02-01,21514.3, Bienes de consumo duradero,0.041656421
+2003-02-01,43911.7, Tarjeta de credito,0.085022718
+2003-02-01,12714.6,"Consumo (Otros, C. Personales y Nomina",0.024618265
+2003-02-01,294082.1,Creditos a actividad empresarial,0.569407683
+2003-02-01,20801.9,Intermediarios financieros no bancarios privados,0.040277058
+2003-02-01,123445.6,Vivienda,0.238968533
+2003-03-01,22916.8, Bienes de consumo duradero,0.044362813
+2003-03-01,44446.5, Tarjeta de credito,0.086040449
+2003-03-01,12830.8,"Consumo (Otros, C. Personales y Nomina",0.024838127
+2003-03-01,291052.4,Creditos a actividad empresarial,0.563425225
+2003-03-01,21884.7,Intermediarios financieros no bancarios privados,0.042364853
+2003-03-01,122097.7,Vivienda,0.237043145
+2003-04-01,23773.5, Bienes de consumo duradero,0.046154393
+2003-04-01,45949.1, Tarjeta de credito,0.089206587
+2003-04-01,13313.4,"Consumo (Otros, C. Personales y Nomina",0.025846926
+2003-04-01,288923.1,Creditos a actividad empresarial,0.560921624
+2003-04-01,21029.6,Intermediarios financieros no bancarios privados,0.039879143
+2003-04-01,121657.1,Vivienda,0.23070248
+2003-05-01,24932.4, Bienes de consumo duradero,0.047280155
+2003-05-01,46543.8, Tarjeta de credito,0.088262585
+2003-05-01,13729.3,"Consumo (Otros, C. Personales y Nomina",0.026035337
+2003-05-01,299441.1,Creditos a actividad empresarial,0.567840301
+2003-05-01,21925.8,Intermediarios financieros no bancarios privados,0.041980206
+2003-05-01,121290.5,Vivienda,0.232228709
+2003-06-01,25436.1, Bienes de consumo duradero,0.048701198
+2003-06-01,48092, Tarjeta de credito,0.092079289
+2003-06-01,14533.5,"Consumo (Otros, C. Personales y Nomina",0.027826548
+2003-06-01,291011.1,Creditos a actividad empresarial,0.554230004
+2003-06-01,22404.3,Intermediarios financieros no bancarios privados,0.04266894
+2003-06-01,120938.6,Vivienda,0.230327299
+2003-07-01,26003.9, Bienes de consumo duradero,0.049524371
+2003-07-01,49071.2, Tarjeta de credito,0.093455993
+2003-07-01,15643.7,"Consumo (Otros, C. Personales y Nomina",0.029793392
+2003-07-01,285085,Creditos a actividad empresarial,0.550712235
+2003-07-01,21208.8,Intermediarios financieros no bancarios privados,0.040970046
+2003-07-01,117502.3,Vivienda,0.226984774
+2003-08-01,26756.9, Bienes de consumo duradero,0.051687575
+2003-08-01,51002.8, Tarjeta de credito,0.098524531
+2003-08-01,16110.2,"Consumo (Otros, C. Personales y Nomina",0.030215726
+2003-08-01,292013.6,Creditos a actividad empresarial,0.547690458
+2003-08-01,23340.2,Intermediarios financieros no bancarios privados,0.04377606
+2003-08-01,117461.4,Vivienda,0.220306479
+2003-09-01,31378.3, Bienes de consumo duradero,0.058852038
+2003-09-01,52869, Tarjeta de credito,0.099159241
+2003-09-01,16904.9,"Consumo (Otros, C. Personales y Nomina",0.031630988
+2003-09-01,291191.9,Creditos a actividad empresarial,0.544853119
+2003-09-01,23749.8,Intermediarios financieros no bancarios privados,0.044438573
+2003-09-01,117530.2,Vivienda,0.219912353
+2003-10-01,31532.1, Bienes de consumo duradero,0.059000141
+2003-10-01,53532.2, Tarjeta de credito,0.099738117
+2003-10-01,18231.6,"Consumo (Otros, C. Personales y Nomina",0.033968069
+2003-10-01,291502.9,Creditos a actividad empresarial,0.543111441
+2003-10-01,24502.7,Intermediarios financieros no bancarios privados,0.045652022
+2003-10-01,116735.2,Vivienda,0.217494312
+2003-11-01,32223, Bienes de consumo duradero,0.060036041
+2003-11-01,55816.1, Tarjeta de credito,0.100746737
+2003-11-01,18847.7,"Consumo (Otros, C. Personales y Nomina",0.034019651
+2003-11-01,299019.1,Creditos a actividad empresarial,0.539722384
+2003-11-01,26885.9,Intermediarios financieros no bancarios privados,0.048528412
+2003-11-01,116724.8,Vivienda,0.210685496
+2003-12-01,36730.3, Bienes de consumo duradero,0.065819154
+2003-12-01,57924.8, Tarjeta de credito,0.103798808
+2003-12-01,19151.4,"Consumo (Otros, C. Personales y Nomina",0.034318504
+2003-12-01,301165.7,Creditos a actividad empresarial,0.539676279
+2003-12-01,26541.9,Intermediarios financieros no bancarios privados,0.047561969
+2003-12-01,116534.7,Vivienda,0.208825286
+2004-01-01,36522.7, Bienes de consumo duradero,0.065950331
+2004-01-01,57952.1, Tarjeta de credito,0.104646157
+2004-01-01,19975.3,"Consumo (Otros, C. Personales y Nomina",0.036070106
+2004-01-01,296291,Creditos a actividad empresarial,0.53502314
+2004-01-01,26421.4,Intermediarios financieros no bancarios privados,0.047710057
+2004-01-01,116628.5,Vivienda,0.209249173
+2004-02-01,39671.7, Bienes de consumo duradero,0.071177031
+2004-02-01,58940.4, Tarjeta de credito,0.105747994
+2004-02-01,20626.8,"Consumo (Otros, C. Personales y Nomina",0.0370076
+2004-02-01,295286.6,Creditos a actividad empresarial,0.529788832
+2004-02-01,26212.6,Intermediarios financieros no bancarios privados,0.04702937
+2004-02-01,116929.8,Vivienda,0.206570628
+2004-03-01,39457.8, Bienes de consumo duradero,0.069706974
+2004-03-01,61107.5, Tarjeta de credito,0.107953787
+2004-03-01,22400.9,"Consumo (Otros, C. Personales y Nomina",0.039573898
+2004-03-01,295934.6,Creditos a actividad empresarial,0.522804249
+2004-03-01,30221.8,Intermediarios financieros no bancarios privados,0.052649559
+2004-03-01,117024.8,Vivienda,0.20386953
+2004-04-01,39603, Bienes de consumo duradero,0.068992598
+2004-04-01,63730.4, Tarjeta de credito,0.11102507
+2004-04-01,23346.9,"Consumo (Otros, C. Personales y Nomina",0.040672759
+2004-04-01,300091.2,Creditos a actividad empresarial,0.522790483
+2004-04-01,30939.2,Intermediarios financieros no bancarios privados,0.053063447
+2004-04-01,117519.5,Vivienda,0.201556271
+2004-05-01,39952.3, Bienes de consumo duradero,0.068521706
+2004-05-01,65921.5, Tarjeta de credito,0.113061166
+2004-05-01,24858.1,"Consumo (Otros, C. Personales y Nomina",0.042633826
+2004-05-01,303869.9,Creditos a actividad empresarial,0.515067339
+2004-05-01,33310.7,Intermediarios financieros no bancarios privados,0.056462498
+2004-05-01,117831,Vivienda,0.199726592
+2004-06-01,40226.1, Bienes de consumo duradero,0.06818428
+2004-06-01,68739.8, Tarjeta de credito,0.116515739
+2004-06-01,25984,"Consumo (Otros, C. Personales y Nomina",0.044043552
+2004-06-01,306425.9,Creditos a actividad empresarial,0.511058119
+2004-06-01,36569.1,Intermediarios financieros no bancarios privados,0.060990065
+2004-06-01,117692.6,Vivienda,0.196288104
+2004-07-01,40722.7, Bienes de consumo duradero,0.067917452
+2004-07-01,71242.5, Tarjeta de credito,0.118818475
+2004-07-01,26938.3,"Consumo (Otros, C. Personales y Nomina",0.044372864
+2004-07-01,307558.3,Creditos a actividad empresarial,0.506611134
+2004-07-01,36386.1,Intermediarios financieros no bancarios privados,0.059935314
+2004-07-01,118981.1,Vivienda,0.195986094
+2004-08-01,42935.9, Bienes de consumo duradero,0.070724168
+2004-08-01,74289.8, Tarjeta de credito,0.122370425
+2004-08-01,27111.4,"Consumo (Otros, C. Personales y Nomina",0.044197931
+2004-08-01,308519.2,Creditos a actividad empresarial,0.502958549
+2004-08-01,36851.4,Intermediarios financieros no bancarios privados,0.060076412
+2004-08-01,119753.1,Vivienda,0.195225598
+2004-09-01,44152.9, Bienes de consumo duradero,0.071979567
+2004-09-01,77020.8, Tarjeta de credito,0.122260963
+2004-09-01,28974.1,"Consumo (Otros, C. Personales y Nomina",0.045992789
+2004-09-01,321057.9,Creditos a actividad empresarial,0.509639578
+2004-09-01,36885.8,Intermediarios financieros no bancarios privados,0.058551631
+2004-09-01,119909.9,Vivienda,0.190342087
+2004-10-01,46122, Bienes de consumo duradero,0.073212952
+2004-10-01,80312, Tarjeta de credito,0.121477839
+2004-10-01,30770.6,"Consumo (Otros, C. Personales y Nomina",0.046542808
+2004-10-01,341395.7,Creditos a actividad empresarial,0.516386243
+2004-10-01,40204.9,Intermediarios financieros no bancarios privados,0.060812884
+2004-10-01,121108.3,Vivienda,0.18318526
 2004-11-01,47333.2, Bienes de consumo duradero,0.070298923
 2004-11-01,86194.2, Tarjeta de credito,0.128014997
-2004-11-01,32105.8,"Consumo (Otros, C. Personales y Nomina",0.18191264
-2004-11-01,38927.9,Intermediarios financieros no bancarios privados,0.514274707
-2004-11-01,122484.2,Vivienda,0.057815433
-2004-12-01,369311.6,Creditos a actividad empresarial,0.047838795
+2004-11-01,32105.8,"Consumo (Otros, C. Personales y Nomina",0.0476833
+2004-11-01,346268,Creditos a actividad empresarial,0.514274707
+2004-11-01,38927.9,Intermediarios financieros no bancarios privados,0.057815433
+2004-11-01,122484.2,Vivienda,0.18191264
 2004-12-01,49401.5, Bienes de consumo duradero,0.070149697
 2004-12-01,87110.9, Tarjeta de credito,0.123696714
-2004-12-01,33689.5,"Consumo (Otros, C. Personales y Nomina",0.175044165
-2004-12-01,41444.9,Intermediarios financieros no bancarios privados,0.524419234
-2004-12-01,123271.3,Vivienda,0.058851395
-2005-01-01,371001.9,Creditos a actividad empresarial,0.050568035
-2005-01-01,49475.3, Bienes de consumo duradero,0.06982979
-2005-01-01,88669.9, Tarjeta de credito,0.125149327
-2005-01-01,35828.1,"Consumo (Otros, C. Personales y Nomina",0.173832145
-2005-01-01,40375.4,Intermediarios financieros no bancarios privados,0.523634718
-2005-01-01,123162.3,Vivienda,0.056986126
-2005-02-01,369502.5,Creditos a actividad empresarial,0.05569545
-2005-02-01,47370, Bienes de consumo duradero,0.066235027
-2005-02-01,91378.6, Tarjeta de credito,0.127769983
-2005-02-01,39832.3,"Consumo (Otros, C. Personales y Nomina",0.173626099
-2005-02-01,42923.3,Intermediarios financieros no bancarios privados,0.516656285
-2005-02-01,124174,Vivienda,0.060017436
-2005-03-01,367626.1,Creditos a actividad empresarial,0.058442287
-2005-03-01,48537.4, Bienes de consumo duradero,0.067187036
-2005-03-01,94357, Tarjeta de credito,0.130612006
-2005-03-01,42220,"Consumo (Otros, C. Personales y Nomina",0.174196913
-2005-03-01,43837.8,Intermediarios financieros no bancarios privados,0.508879919
-2005-03-01,125843.7,Vivienda,0.060681698
-2005-04-01,377932.9,Creditos a actividad empresarial,0.062419751
-2005-04-01,46486.9, Bienes de consumo duradero,0.062376947
-2005-04-01,97585.3, Tarjeta de credito,0.130941686
-2005-04-01,46518.8,"Consumo (Otros, C. Personales y Nomina",0.173427527
-2005-04-01,47485.6,Intermediarios financieros no bancarios privados,0.507117068
-2005-04-01,129248.2,Vivienda,0.06371702
-2005-05-01,377025.5,Creditos a actividad empresarial,0.06334818
-2005-05-01,46729.3, Bienes de consumo duradero,0.061849114
-2005-05-01,101403.1, Tarjeta de credito,0.134213264
-2005-05-01,47861.9,"Consumo (Otros, C. Personales y Nomina",0.175902811
-2005-05-01,49616.2,Intermediarios financieros no bancarios privados,0.499016527
-2005-05-01,132901.1,Vivienda,0.065670104
-2005-06-01,377986,Creditos a actividad empresarial,0.064516609
-2005-06-01,47324.4, Bienes de consumo duradero,0.061777604
-2005-06-01,106541.8, Tarjeta de credito,0.139080414
-2005-06-01,49422.6,"Consumo (Otros, C. Personales y Nomina",0.176795059
-2005-06-01,49336.9,Intermediarios financieros no bancarios privados,0.493425579
-2005-06-01,135432.9,Vivienda,0.064404736
-2005-07-01,385157.4,Creditos a actividad empresarial,0.064731512
-2005-07-01,47960.8, Bienes de consumo duradero,0.061333542
-2005-07-01,111126.2, Tarjeta de credito,0.14211113
-2005-07-01,50617.9,"Consumo (Otros, C. Personales y Nomina",0.176480232
-2005-07-01,49102.8,Intermediarios financieros no bancarios privados,0.492549493
-2005-07-01,138001.7,Vivienda,0.062793962
-2005-08-01,383845.4,Creditos a actividad empresarial,0.065949253
-2005-08-01,48083.6, Bienes de consumo duradero,0.061112241
-2005-08-01,117057.5, Tarjeta de credito,0.148775178
-2005-08-01,51889.4,"Consumo (Otros, C. Personales y Nomina",0.171425557
-2005-08-01,51053.2,Intermediarios financieros no bancarios privados,0.48785142
-2005-08-01,134879,Vivienda,0.064886478
-2005-09-01,378363.3,Creditos a actividad empresarial,0.068079448
-2005-09-01,48812.1, Bienes de consumo duradero,0.061166918
-2005-09-01,121952.9, Tarjeta de credito,0.152820368
-2005-09-01,54328.4,"Consumo (Otros, C. Personales y Nomina",0.177036964
-2005-09-01,53280,Intermediarios financieros no bancarios privados,0.47413074
-2005-09-01,141278.1,Vivienda,0.066765687
-2005-10-01,380411.5,Creditos a actividad empresarial,0.069480367
+2004-12-01,33689.5,"Consumo (Otros, C. Personales y Nomina",0.047838795
+2004-12-01,369311.6,Creditos a actividad empresarial,0.524419234
+2004-12-01,41444.9,Intermediarios financieros no bancarios privados,0.058851395
+2004-12-01,123271.3,Vivienda,0.173959202
+2005-01-01,49475.3, Bienes de consumo duradero,0.069819039
+2005-01-01,88669.9, Tarjeta de credito,0.125130059
+2005-01-01,35828.1,"Consumo (Otros, C. Personales y Nomina",0.050560249
+2005-01-01,371001.9,Creditos a actividad empresarial,0.523554098
+2005-01-01,40375.4,Intermediarios financieros no bancarios privados,0.056977353
+2005-01-01,123162.3,Vivienda,0.172455399
+2005-02-01,47370, Bienes de consumo duradero,0.066328838
+2005-02-01,91378.6, Tarjeta de credito,0.127950947
+2005-02-01,39832.3,"Consumo (Otros, C. Personales y Nomina",0.055774334
+2005-02-01,369502.5,Creditos a actividad empresarial,0.517388041
+2005-02-01,42923.3,Intermediarios financieros no bancarios privados,0.059629128
+2005-02-01,124174,Vivienda,0.17250275
+2005-03-01,48537.4, Bienes de consumo duradero,0.067428246
+2005-03-01,94357, Tarjeta de credito,0.131080919
+2005-03-01,42220,"Consumo (Otros, C. Personales y Nomina",0.058652102
+2005-03-01,367626.1,Creditos a actividad empresarial,0.510706856
+2005-03-01,43837.8,Intermediarios financieros no bancarios privados,0.059384285
+2005-03-01,125843.7,Vivienda,0.170472473
+2005-04-01,46486.9, Bienes de consumo duradero,0.062972853
+2005-04-01,97585.3, Tarjeta de credito,0.132192612
+2005-04-01,46518.8,"Consumo (Otros, C. Personales y Nomina",0.063016066
+2005-04-01,377932.9,Creditos a actividad empresarial,0.503466811
+2005-04-01,47485.6,Intermediarios financieros no bancarios privados,0.063258382
+2005-04-01,129248.2,Vivienda,0.172179186
+2005-05-01,46729.3, Bienes de consumo duradero,0.06225087
+2005-05-01,101403.1, Tarjeta de credito,0.135085078
+2005-05-01,47861.9,"Consumo (Otros, C. Personales y Nomina",0.063759673
+2005-05-01,377025.5,Creditos a actividad empresarial,0.494244732
+2005-05-01,49616.2,Intermediarios financieros no bancarios privados,0.06504214
+2005-05-01,132901.1,Vivienda,0.174220759
+2005-06-01,47324.4, Bienes de consumo duradero,0.062037808
+2005-06-01,106541.8, Tarjeta de credito,0.139666212
+2005-06-01,49422.6,"Consumo (Otros, C. Personales y Nomina",0.064079887
+2005-06-01,377986,Creditos a actividad empresarial,0.490085514
+2005-06-01,49336.9,Intermediarios financieros no bancarios privados,0.063968771
+2005-06-01,135432.9,Vivienda,0.175598309
+2005-07-01,47960.8, Bienes de consumo duradero,0.062184561
+2005-07-01,111126.2, Tarjeta de credito,0.144082958
+2005-07-01,50617.9,"Consumo (Otros, C. Personales y Nomina",0.06423421
+2005-07-01,385157.4,Creditos a actividad empresarial,0.488765463
+2005-07-01,49102.8,Intermediarios financieros no bancarios privados,0.062311545
+2005-07-01,138001.7,Vivienda,0.175124416
+2005-08-01,48083.6, Bienes de consumo duradero,0.061018179
+2005-08-01,117057.5, Tarjeta de credito,0.148637536
+2005-08-01,51889.4,"Consumo (Otros, C. Personales y Nomina",0.065888239
+2005-08-01,383845.4,Creditos a actividad empresarial,0.487400078
+2005-08-01,51053.2,Intermediarios financieros no bancarios privados,0.064826447
+2005-08-01,134879,Vivienda,0.171266961
+2005-09-01,48812.1, Bienes de consumo duradero,0.061980738
+2005-09-01,121952.9, Tarjeta de credito,0.15171547
+2005-09-01,54328.4,"Consumo (Otros, C. Personales y Nomina",0.06758723
+2005-09-01,378363.3,Creditos a actividad empresarial,0.470702754
+2005-09-01,53280,Intermediarios financieros no bancarios privados,0.066282969
+2005-09-01,141278.1,Vivienda,0.175756979
 2005-10-01,54623.7, Bienes de consumo duradero,0.066625261
 2005-10-01,128979.8, Tarjeta de credito,0.157318397
-2005-10-01,56964.5,"Consumo (Otros, C. Personales y Nomina",0.177804094
-2005-10-01,53109.9,Intermediarios financieros no bancarios privados,0.463993022
-2005-10-01,145775.3,Vivienda,0.064778859
-2005-11-01,391117.9,Creditos a actividad empresarial,0.068258311
-2005-11-01,54628.9, Bienes de consumo duradero,0.064412024
-2005-11-01,137154.3, Tarjeta de credito,0.161716344
-2005-11-01,57891,"Consumo (Otros, C. Personales y Nomina",0.178156067
-2005-11-01,56227.4,Intermediarios financieros no bancarios privados,0.461160583
-2005-11-01,151097.1,Vivienda,0.066296788
-2005-12-01,401312.1,Creditos a actividad empresarial,0.051539886
-2005-12-01,71851.6, Bienes de consumo duradero,0.080866291
-2005-12-01,142278.5, Tarjeta de credito,0.160129136
-2005-12-01,45794.4,"Consumo (Otros, C. Personales y Nomina",0.190351071
-2005-12-01,58155.6,Intermediarios financieros no bancarios privados,0.451661774
-2005-12-01,169131.4,Vivienda,0.065451955
-2006-01-01,400414.1,Creditos a actividad empresarial,0.051896311
-2006-01-01,71105.7, Bienes de consumo duradero,0.079428895
-2006-01-01,145775.2, Tarjeta de credito,0.162838747
-2006-01-01,46458.2,"Consumo (Otros, C. Personales y Nomina",0.196108966
-2006-01-01,55899.7,Intermediarios financieros no bancarios privados,0.447284107
-2006-01-01,175559.1,Vivienda,0.062442974
-2006-02-01,406863.2,Creditos a actividad empresarial,0.052166537
-2006-02-01,74942.9, Bienes de consumo duradero,0.082047446
-2006-02-01,150542.2, Tarjeta de credito,0.164813518
-2006-02-01,47649.4,"Consumo (Otros, C. Personales y Nomina",0.19533149
-2006-02-01,54994.1,Intermediarios financieros no bancarios privados,0.445433608
-2006-02-01,178417.6,Vivienda,0.06020751
-2006-03-01,418076.1,Creditos a actividad empresarial,0.05245358
-2006-03-01,75109.6, Bienes de consumo duradero,0.079694944
-2006-03-01,154984.6, Tarjeta de credito,0.16444621
-2006-03-01,49435.6,"Consumo (Otros, C. Personales y Nomina",0.20008482
-2006-03-01,56285.2,Intermediarios financieros no bancarios privados,0.443599107
-2006-03-01,188572.7,Vivienda,0.059721339
-2006-04-01,430200.5,Creditos a actividad empresarial,0.052004344
-2006-04-01,79665.1, Bienes de consumo duradero,0.08165664
-2006-04-01,160875.3, Tarjeta de credito,0.164897006
-2006-04-01,50736,"Consumo (Otros, C. Personales y Nomina",0.200771865
-2006-04-01,58258.6,Intermediarios financieros no bancarios privados,0.440955041
-2006-04-01,195875.2,Vivienda,0.059715001
-2006-05-01,431729.5,Creditos a actividad empresarial,0.052606045
-2006-05-01,80340.1, Bienes de consumo duradero,0.081234262
-2006-05-01,166904.2, Tarjeta de credito,0.168761795
-2006-05-01,52027,"Consumo (Otros, C. Personales y Nomina",0.202493183
-2006-05-01,57727.7,Intermediarios financieros no bancarios privados,0.436534523
-2006-05-01,200264.3,Vivienda,0.058370192
-2006-06-01,439373.5,Creditos a actividad empresarial,0.055131989
-2006-06-01,80674.3, Bienes de consumo duradero,0.080217557
-2006-06-01,172452.9, Tarjeta de credito,0.171476547
-2006-06-01,55445.9,"Consumo (Otros, C. Personales y Nomina",0.201717461
-2006-06-01,54881.2,Intermediarios financieros no bancarios privados,0.436885959
-2006-06-01,202866,Vivienda,0.054570487
-2006-07-01,436575.6,Creditos a actividad empresarial,0.055815055
-2006-07-01,81310.2, Bienes de consumo duradero,0.079863677
-2006-07-01,179360, Tarjeta de credito,0.176169154
-2006-07-01,56826,"Consumo (Otros, C. Personales y Nomina",0.205344125
-2006-07-01,54977,Intermediarios financieros no bancarios privados,0.428808843
-2006-07-01,209063.4,Vivienda,0.053998949
-2006-08-01,440582.9,Creditos a actividad empresarial,0.056437667
-2006-08-01,82649, Bienes de consumo duradero,0.079811047
-2006-08-01,185416, Tarjeta de credito,0.179049294
-2006-08-01,58444.5,"Consumo (Otros, C. Personales y Nomina",0.205103546
-2006-08-01,56069.3,Intermediarios financieros no bancarios privados,0.425454421
-2006-08-01,212396.7,Vivienda,0.054144025
-2006-09-01,453833.1,Creditos a actividad empresarial,0.056415858
-2006-09-01,86698.4, Bienes de consumo duradero,0.08115893
-2006-09-01,191464.6, Tarjeta de credito,0.179231243
-2006-09-01,60266.5,"Consumo (Otros, C. Personales y Nomina",0.206459865
-2006-09-01,55440.2,Intermediarios financieros no bancarios privados,0.424836083
-2006-09-01,220551.7,Vivienda,0.051897928
-2006-10-01,467547.5,Creditos a actividad empresarial,0.056796314
+2005-10-01,56964.5,"Consumo (Otros, C. Personales y Nomina",0.069480367
+2005-10-01,380411.5,Creditos a actividad empresarial,0.463993022
+2005-10-01,53109.9,Intermediarios financieros no bancarios privados,0.064778859
+2005-10-01,145775.3,Vivienda,0.177804094
+2005-11-01,54628.9, Bienes de consumo duradero,0.064412016
+2005-11-01,137154.3, Tarjeta de credito,0.161716325
+2005-11-01,57891,"Consumo (Otros, C. Personales y Nomina",0.068258303
+2005-11-01,391117.9,Creditos a actividad empresarial,0.461160529
+2005-11-01,56227.4,Intermediarios financieros no bancarios privados,0.06629678
+2005-11-01,151097.1,Vivienda,0.173577205
+2005-12-01,71851.6, Bienes de consumo duradero,0.082541623
+2005-12-01,142278.5, Tarjeta de credito,0.163446581
+2005-12-01,45794.4,"Consumo (Otros, C. Personales y Nomina",0.052607654
+2005-12-01,401312.1,Creditos a actividad empresarial,0.461018992
+2005-12-01,58155.6,Intermediarios financieros no bancarios privados,0.066807944
+2005-12-01,169131.4,Vivienda,0.190295216
+2006-01-01,71105.7, Bienes de consumo duradero,0.080003326
+2006-01-01,145775.2, Tarjeta de credito,0.164016399
+2006-01-01,46458.2,"Consumo (Otros, C. Personales y Nomina",0.052271625
+2006-01-01,400414.1,Creditos a actividad empresarial,0.450518872
+2006-01-01,55899.7,Intermediarios financieros no bancarios privados,0.06133008
+2006-01-01,175559.1,Vivienda,0.1926138
+2006-02-01,74942.9, Bienes de consumo duradero,0.082223233
+2006-02-01,150542.2, Tarjeta de credito,0.165166632
+2006-02-01,47649.4,"Consumo (Otros, C. Personales y Nomina",0.052278304
+2006-02-01,406863.2,Creditos a actividad empresarial,0.446387952
+2006-02-01,54994.1,Intermediarios financieros no bancarios privados,0.059068808
+2006-02-01,178417.6,Vivienda,0.191637194
+2006-03-01,75109.6, Bienes de consumo duradero,0.080674737
+2006-03-01,154984.6, Tarjeta de credito,0.166467959
+2006-03-01,49435.6,"Consumo (Otros, C. Personales y Nomina",0.053098459
+2006-03-01,418076.1,Creditos a actividad empresarial,0.438138276
+2006-03-01,56285.2,Intermediarios financieros no bancarios privados,0.058986152
+2006-03-01,188572.7,Vivienda,0.197621719
+2006-04-01,79665.1, Bienes de consumo duradero,0.083487981
+2006-04-01,160875.3, Tarjeta de credito,0.168595207
+2006-04-01,50736,"Consumo (Otros, C. Personales y Nomina",0.053170663
+2006-04-01,430200.5,Creditos a actividad empresarial,0.437370934
+2006-04-01,58258.6,Intermediarios financieros no bancarios privados,0.059229634
+2006-04-01,195875.2,Vivienda,0.19913998
+2006-05-01,80340.1, Bienes de consumo duradero,0.081679181
+2006-05-01,166904.2, Tarjeta de credito,0.169686102
+2006-05-01,52027,"Consumo (Otros, C. Personales y Nomina",0.052294975
+2006-05-01,431729.5,Creditos a actividad empresarial,0.433953206
+2006-05-01,57727.7,Intermediarios financieros no bancarios privados,0.058025038
+2006-05-01,200264.3,Vivienda,0.2012958
+2006-06-01,80674.3, Bienes de consumo duradero,0.081089829
+2006-06-01,172452.9, Tarjeta de credito,0.173341152
+2006-06-01,55445.9,"Consumo (Otros, C. Personales y Nomina",0.054721562
+2006-06-01,439373.5,Creditos a actividad empresarial,0.433633579
+2006-06-01,54881.2,Intermediarios financieros no bancarios privados,0.054164239
+2006-06-01,202866,Vivienda,0.200215784
+2006-07-01,81310.2, Bienes de consumo duradero,0.080247974
+2006-07-01,179360, Tarjeta de credito,0.175937833
+2006-07-01,56826,"Consumo (Otros, C. Personales y Nomina",0.055741767
+2006-07-01,436575.6,Creditos a actividad empresarial,0.428245791
+2006-07-01,54977,Intermediarios financieros no bancarios privados,0.053928046
+2006-07-01,209063.4,Vivienda,0.205074496
+2006-08-01,82649, Bienes de consumo duradero,0.081072067
+2006-08-01,185416, Tarjeta de credito,0.178351875
+2006-08-01,58444.5,"Consumo (Otros, C. Personales y Nomina",0.056217835
+2006-08-01,440582.9,Creditos a actividad empresarial,0.423797224
+2006-08-01,56069.3,Intermediarios financieros no bancarios privados,0.053933127
+2006-08-01,212396.7,Vivienda,0.204304643
+2006-09-01,86698.4, Bienes de consumo duradero,0.081158937
+2006-09-01,191464.6, Tarjeta de credito,0.17923126
+2006-09-01,60266.5,"Consumo (Otros, C. Personales y Nomina",0.056415863
+2006-09-01,453833.1,Creditos a actividad empresarial,0.424836123
+2006-09-01,55440.2,Intermediarios financieros no bancarios privados,0.051897933
+2006-09-01,220551.7,Vivienda,0.206459884
 2006-10-01,89369.2, Bienes de consumo duradero,0.08146267
 2006-10-01,198085, Tarjeta de credito,0.180560337
-2006-10-01,62308.8,"Consumo (Otros, C. Personales y Nomina",0.20420423
-2006-10-01,55722.9,Intermediarios financieros no bancarios privados,0.426183377
-2006-10-01,224023.7,Vivienda,0.050793072
-2006-11-01,479445.4,Creditos a actividad empresarial,0.056675524
-2006-11-01,91072.8, Bienes de consumo duradero,0.080737024
-2006-11-01,207616.4, Tarjeta de credito,0.184054188
-2006-11-01,63931,"Consumo (Otros, C. Personales y Nomina",0.199303504
-2006-11-01,61134.4,Intermediarios financieros no bancarios privados,0.425033541
-2006-11-01,224817.9,Vivienda,0.054196308
-2006-12-01,504276.2,Creditos a actividad empresarial,0.055492621
-2006-12-01,92041.3, Bienes de consumo duradero,0.079139456
-2006-12-01,211247, Tarjeta de credito,0.181635555
-2006-12-01,64539.4,"Consumo (Otros, C. Personales y Nomina",0.198227005
-2006-12-01,60379.5,Intermediarios financieros no bancarios privados,0.43358953
-2006-12-01,230543.3,Vivienda,0.051915833
-2007-01-01,508654.4,Creditos a actividad empresarial,0.076613922
-2007-01-01,62788.3, Bienes de consumo duradero,0.054237849
-2007-01-01,216431, Tarjeta de credito,0.186957634
-2007-01-01,88691.9,"Consumo (Otros, C. Personales y Nomina",0.190366271
-2007-01-01,60704.8,Intermediarios financieros no bancarios privados,0.439386331
-2007-01-01,220377,Vivienda,0.052438079
-2007-02-01,524514.8,Creditos a actividad empresarial,0.076040725
-2007-02-01,62670.5, Bienes de consumo duradero,0.052590279
-2007-02-01,221299.5, Tarjeta de credito,0.185704638
-2007-02-01,90615.8,"Consumo (Otros, C. Personales y Nomina",0.194704914
-2007-02-01,60549.1,Intermediarios financieros no bancarios privados,0.440149349
-2007-02-01,232024.9,Vivienda,0.050810095
-2007-03-01,532675.7,Creditos a actividad empresarial,0.078229717
-2007-03-01,63034.9, Bienes de consumo duradero,0.051738128
-2007-03-01,226015.8, Tarjeta de credito,0.185510478
-2007-03-01,95310.8,"Consumo (Otros, C. Personales y Nomina",0.194811372
-2007-03-01,63960.5,Intermediarios financieros no bancarios privados,0.437212458
-2007-03-01,237347.5,Vivienda,0.052497847
-2007-04-01,540992.5,Creditos a actividad empresarial,0.078133661
-2007-04-01,62669.1, Bienes de consumo duradero,0.050476786
-2007-04-01,233850.6, Tarjeta de credito,0.188354813
-2007-04-01,97006.3,"Consumo (Otros, C. Personales y Nomina",0.195572687
-2007-04-01,64212.7,Intermediarios financieros no bancarios privados,0.435742056
-2007-04-01,242811.9,Vivienda,0.051720077
-2007-05-01,553084.5,Creditos a actividad empresarial,0.078436191
-2007-05-01,62629.2, Bienes de consumo duradero,0.0495845
-2007-05-01,238684.4, Tarjeta de credito,0.188970107
-2007-05-01,99071.2,"Consumo (Otros, C. Personales y Nomina",0.194198674
-2007-05-01,64322.4,Intermediarios financieros no bancarios privados,0.437885496
-2007-05-01,245288.5,Vivienda,0.050925032
-2007-06-01,577246.3,Creditos a actividad empresarial,0.078676862
-2007-06-01,62805.5, Bienes de consumo duradero,0.048218165
-2007-06-01,244008.5, Tarjeta de credito,0.187334581
-2007-06-01,102478.8,"Consumo (Otros, C. Personales y Nomina",0.192731011
-2007-06-01,64951.1,Intermediarios financieros no bancarios privados,0.443173881
-2007-06-01,251037.5,Vivienda,0.049865423
-2007-07-01,583563.3,Creditos a actividad empresarial,0.079405516
-2007-07-01,62477.3, Bienes de consumo duradero,0.047420406
-2007-07-01,249733.8, Tarjeta de credito,0.189548495
-2007-07-01,104618.3,"Consumo (Otros, C. Personales y Nomina",0.195747873
-2007-07-01,59225,Intermediarios financieros no bancarios privados,0.442925808
-2007-07-01,257901.6,Vivienda,0.044951903
-2007-08-01,609612.9,Creditos a actividad empresarial,0.077708157
+2006-10-01,62308.8,"Consumo (Otros, C. Personales y Nomina",0.056796314
+2006-10-01,467547.5,Creditos a actividad empresarial,0.426183377
+2006-10-01,55722.9,Intermediarios financieros no bancarios privados,0.050793072
+2006-10-01,224023.7,Vivienda,0.198739345
+2006-11-01,91072.8, Bienes de consumo duradero,0.080793901
+2006-11-01,207616.4, Tarjeta de credito,0.184183849
+2006-11-01,63931,"Consumo (Otros, C. Personales y Nomina",0.056715451
+2006-11-01,479445.4,Creditos a actividad empresarial,0.425332966
+2006-11-01,61134.4,Intermediarios financieros no bancarios privados,0.054234488
+2006-11-01,224817.9,Vivienda,0.194260475
+2006-12-01,92041.3, Bienes de consumo duradero,0.079530974
+2006-12-01,211247, Tarjeta de credito,0.182534142
+2006-12-01,64539.4,"Consumo (Otros, C. Personales y Nomina",0.055767154
+2006-12-01,504276.2,Creditos a actividad empresarial,0.435734584
+2006-12-01,60379.5,Intermediarios financieros no bancarios privados,0.05171743
+2006-12-01,230543.3,Vivienda,0.197469457
+2007-01-01,62788.3, Bienes de consumo duradero,0.053780663
+2007-01-01,216431, Tarjeta de credito,0.185381713
+2007-01-01,88691.9,"Consumo (Otros, C. Personales y Nomina",0.075968121
+2007-01-01,508654.4,Creditos a actividad empresarial,0.435682616
+2007-01-01,60704.8,Intermediarios financieros no bancarios privados,0.051436795
+2007-01-01,220377,Vivienda,0.186731305
+2007-02-01,62670.5, Bienes de consumo duradero,0.053102385
+2007-02-01,221299.5, Tarjeta de credito,0.187512964
+2007-02-01,90615.8,"Consumo (Otros, C. Personales y Nomina",0.076781182
+2007-02-01,524514.8,Creditos a actividad empresarial,0.436568038
+2007-02-01,60549.1,Intermediarios financieros no bancarios privados,0.050396675
+2007-02-01,232024.9,Vivienda,0.193120681
+2007-03-01,63034.9, Bienes de consumo duradero,0.052465674
+2007-03-01,226015.8, Tarjeta de credito,0.188119142
+2007-03-01,95310.8,"Consumo (Otros, C. Personales y Nomina",0.07932979
+2007-03-01,532675.7,Creditos a actividad empresarial,0.433948261
+2007-03-01,63960.5,Intermediarios financieros no bancarios privados,0.052105902
+2007-03-01,237347.5,Vivienda,0.193356924
+2007-04-01,62669.1, Bienes de consumo duradero,0.051053853
+2007-04-01,233850.6, Tarjeta de credito,0.190508148
+2007-04-01,97006.3,"Consumo (Otros, C. Personales y Nomina",0.077833122
+2007-04-01,540992.5,Creditos a actividad empresarial,0.434065987
+2007-04-01,64212.7,Intermediarios financieros no bancarios privados,0.051521138
+2007-04-01,242811.9,Vivienda,0.194820422
+2007-05-01,62629.2, Bienes de consumo duradero,0.050250614
+2007-05-01,238684.4, Tarjeta de credito,0.191508717
+2007-05-01,99071.2,"Consumo (Otros, C. Personales y Nomina",0.078096102
+2007-05-01,553084.5,Creditos a actividad empresarial,0.435986882
+2007-05-01,64322.4,Intermediarios financieros no bancarios privados,0.050704228
+2007-05-01,245288.5,Vivienda,0.193356654
+2007-06-01,62805.5, Bienes de consumo duradero,0.049508482
+2007-06-01,244008.5, Tarjeta de credito,0.187381811
+2007-06-01,102478.8,"Consumo (Otros, C. Personales y Nomina",0.078696697
+2007-06-01,577246.3,Creditos a actividad empresarial,0.44328561
+2007-06-01,64951.1,Intermediarios financieros no bancarios privados,0.049877995
+2007-06-01,251037.5,Vivienda,0.192779601
+2007-07-01,62477.3, Bienes de consumo duradero,0.047978286
+2007-07-01,249733.8, Tarjeta de credito,0.189510708
+2007-07-01,104618.3,"Consumo (Otros, C. Personales y Nomina",0.079389687
+2007-07-01,583563.3,Creditos a actividad empresarial,0.44283751
+2007-07-01,59225,Intermediarios financieros no bancarios privados,0.044942942
+2007-07-01,257901.6,Vivienda,0.19570885
 2007-08-01,62740, Bienes de consumo duradero,0.045842115
 2007-08-01,258677.7, Tarjeta de credito,0.189007537
-2007-08-01,106352.2,"Consumo (Otros, C. Personales y Nomina",0.192607539
-2007-08-01,67623,Intermediarios financieros no bancarios privados,0.445424684
-2007-08-01,263604.7,Vivienda,0.049409967
-2007-09-01,631668.1,Creditos a actividad empresarial,0.07774973
+2007-08-01,106352.2,"Consumo (Otros, C. Personales y Nomina",0.077708157
+2007-08-01,609612.9,Creditos a actividad empresarial,0.445424684
+2007-08-01,67623,Intermediarios financieros no bancarios privados,0.049409967
+2007-08-01,263604.7,Vivienda,0.192607539
 2007-09-01,62818.1, Bienes de consumo duradero,0.044769149
 2007-09-01,263122.9, Tarjeta de credito,0.1875222
-2007-09-01,109095,"Consumo (Otros, C. Personales y Nomina",0.191162993
-2007-09-01,68220.4,Intermediarios financieros no bancarios privados,0.450176673
-2007-09-01,268231.5,Vivienda,0.048619255
-2007-10-01,661233.1,Creditos a actividad empresarial,0.075745024
-2007-10-01,63295.1, Bienes de consumo duradero,0.043960829
-2007-10-01,269731.3, Tarjeta de credito,0.187338537
-2007-10-01,109058.2,"Consumo (Otros, C. Personales y Nomina",0.185848754
-2007-10-01,68902.8,Intermediarios financieros no bancarios privados,0.459251269
-2007-10-01,267586.3,Vivienda,0.047855587
-2007-11-01,673696.5,Creditos a actividad empresarial,0.076486646
-2007-11-01,63480.6, Bienes de consumo duradero,0.043179423
-2007-11-01,276947.2, Tarjeta de credito,0.188379131
-2007-11-01,112447.5,"Consumo (Otros, C. Personales y Nomina",0.186626327
-2007-11-01,69216.5,Intermediarios financieros no bancarios privados,0.458247498
-2007-11-01,274370.3,Vivienda,0.047080975
-2007-12-01,682374.6,Creditos a actividad empresarial,0.075292886
-2007-12-01,64603.1, Bienes de consumo duradero,0.043477848
-2007-12-01,279355.2, Tarjeta de credito,0.188005885
-2007-12-01,111876.6,"Consumo (Otros, C. Personales y Nomina",0.18519019
-2007-12-01,72504.4,Intermediarios financieros no bancarios privados,0.459237704
-2007-12-01,275171.4,Vivienda,0.048795419
-2008-01-01,698199.1,Creditos a actividad empresarial,0.073850623
-2008-01-01,64653.1, Bienes de consumo duradero,0.0429979
-2008-01-01,280744.3, Tarjeta de credito,0.186710542
-2008-01-01,111044.3,"Consumo (Otros, C. Personales y Nomina",0.186009374
-2008-01-01,69303,Intermediarios financieros no bancarios privados,0.464341154
-2008-01-01,279690,Vivienda,0.046090342
-2008-02-01,710799.2,Creditos a actividad empresarial,0.073589506
-2008-02-01,64599.3, Bienes de consumo duradero,0.042420372
-2008-02-01,282925.9, Tarjeta de credito,0.185788732
-2008-02-01,112064.8,"Consumo (Otros, C. Personales y Nomina",0.185807973
-2008-02-01,69492.4,Intermediarios financieros no bancarios privados,0.466759962
-2008-02-01,282955.2,Vivienda,0.045633521
-2008-03-01,717105.8,Creditos a actividad empresarial,0.073710156
-2008-03-01,64154.7, Bienes de consumo duradero,0.041770445
-2008-03-01,287913.6, Tarjeta de credito,0.187457492
-2008-03-01,113210.5,"Consumo (Otros, C. Personales y Nomina",0.18442602
-2008-03-01,70245.3,Intermediarios financieros no bancarios privados,0.466899982
-2008-03-01,283257.6,Vivienda,0.04573597
-2008-04-01,731073.2,Creditos a actividad empresarial,0.073484717
-2008-04-01,63833.6, Bienes de consumo duradero,0.041070255
-2008-04-01,288113, Tarjeta de credito,0.185370626
-2008-04-01,114213.9,"Consumo (Otros, C. Personales y Nomina",0.184502878
-2008-04-01,70255.8,Intermediarios financieros no bancarios privados,0.470369254
-2008-04-01,286764.3,Vivienda,0.04520227
-2008-05-01,737010.5,Creditos a actividad empresarial,0.073199487
-2008-05-01,63630.1, Bienes de consumo duradero,0.04060929
-2008-05-01,287596.8, Tarjeta de credito,0.183546811
-2008-05-01,114695.2,"Consumo (Otros, C. Personales y Nomina",0.185490795
-2008-05-01,73309.8,Intermediarios financieros no bancarios privados,0.470366593
-2008-05-01,290642.8,Vivienda,0.04678696
-2008-06-01,740579,Creditos a actividad empresarial,0.07282924
-2008-06-01,63104.3, Bienes de consumo duradero,0.040061735
-2008-06-01,289784.2, Tarjeta de credito,0.183969364
-2008-06-01,114718.9,"Consumo (Otros, C. Personales y Nomina",0.186875895
-2008-06-01,72627.5,Intermediarios financieros no bancarios privados,0.470156231
-2008-06-01,294362.5,Vivienda,0.046107534
-2008-07-01,751466.9,Creditos a actividad empresarial,0.069693594
+2007-09-01,109095,"Consumo (Otros, C. Personales y Nomina",0.07774973
+2007-09-01,631668.1,Creditos a actividad empresarial,0.450176673
+2007-09-01,68220.4,Intermediarios financieros no bancarios privados,0.048619255
+2007-09-01,268231.5,Vivienda,0.186213425
+2007-10-01,63295.1, Bienes de consumo duradero,0.043941138
+2007-10-01,269731.3, Tarjeta de credito,0.187254626
+2007-10-01,109058.2,"Consumo (Otros, C. Personales y Nomina",0.075711096
+2007-10-01,661233.1,Creditos a actividad empresarial,0.459045563
+2007-10-01,68902.8,Intermediarios financieros no bancarios privados,0.047834152
+2007-10-01,267586.3,Vivienda,0.182855641
+2007-11-01,63480.6, Bienes de consumo duradero,0.043379597
+2007-11-01,276947.2, Tarjeta de credito,0.189252431
+2007-11-01,112447.5,"Consumo (Otros, C. Personales y Nomina",0.076841227
+2007-11-01,673696.5,Creditos a actividad empresarial,0.460371869
+2007-11-01,69216.5,Intermediarios financieros no bancarios privados,0.046711211
+2007-11-01,274370.3,Vivienda,0.185160605
+2007-12-01,64603.1, Bienes de consumo duradero,0.043597828
+2007-12-01,279355.2, Tarjeta de credito,0.188524698
+2007-12-01,111876.6,"Consumo (Otros, C. Personales y Nomina",0.075500661
+2007-12-01,682374.6,Creditos a actividad empresarial,0.460504997
+2007-12-01,72504.4,Intermediarios financieros no bancarios privados,0.048261731
+2007-12-01,275171.4,Vivienda,0.18316472
+2008-01-01,64653.1, Bienes de consumo duradero,0.043035602
+2008-01-01,280744.3, Tarjeta de credito,0.186874258
+2008-01-01,111044.3,"Consumo (Otros, C. Personales y Nomina",0.073915378
+2008-01-01,698199.1,Creditos a actividad empresarial,0.463370981
+2008-01-01,69303,Intermediarios financieros no bancarios privados,0.045994043
+2008-01-01,279690,Vivienda,0.185620734
+2008-02-01,64599.3, Bienes de consumo duradero,0.042872357
+2008-02-01,282925.9, Tarjeta de credito,0.187768291
+2008-02-01,112064.8,"Consumo (Otros, C. Personales y Nomina",0.074373594
+2008-02-01,710799.2,Creditos a actividad empresarial,0.465022764
+2008-02-01,69492.4,Intermediarios financieros no bancarios privados,0.045463681
+2008-02-01,282955.2,Vivienda,0.185116429
+2008-03-01,64154.7, Bienes de consumo duradero,0.041971623
+2008-03-01,287913.6, Tarjeta de credito,0.188360339
+2008-03-01,113210.5,"Consumo (Otros, C. Personales y Nomina",0.073715992
+2008-03-01,717105.8,Creditos a actividad empresarial,0.466936951
+2008-03-01,70245.3,Intermediarios financieros no bancarios privados,0.045739591
+2008-03-01,283257.6,Vivienda,0.184440622
+2008-04-01,63833.6, Bienes de consumo duradero,0.041564671
+2008-04-01,288113, Tarjeta de credito,0.187602172
+2008-04-01,114213.9,"Consumo (Otros, C. Personales y Nomina",0.07351876
+2008-04-01,731073.2,Creditos a actividad empresarial,0.47058716
+2008-04-01,70255.8,Intermediarios financieros no bancarios privados,0.045223211
+2008-04-01,286764.3,Vivienda,0.184588352
+2008-05-01,63630.1, Bienes de consumo duradero,0.04095829
+2008-05-01,287596.8, Tarjeta de credito,0.183608436
+2008-05-01,114695.2,"Consumo (Otros, C. Personales y Nomina",0.073224063
+2008-05-01,737010.5,Creditos a actividad empresarial,0.470524517
+2008-05-01,73309.8,Intermediarios financieros no bancarios privados,0.046802669
+2008-05-01,290642.8,Vivienda,0.185553073
+2008-06-01,63104.3, Bienes de consumo duradero,0.040287242
+2008-06-01,289784.2, Tarjeta de credito,0.184009421
+2008-06-01,114718.9,"Consumo (Otros, C. Personales y Nomina",0.072845098
+2008-06-01,740579,Creditos a actividad empresarial,0.470258602
+2008-06-01,72627.5,Intermediarios financieros no bancarios privados,0.046117574
+2008-06-01,294362.5,Vivienda,0.186916585
 2008-07-01,62761.4, Bienes de consumo duradero,0.039512377
 2008-07-01,290252.9, Tarjeta de credito,0.182733048
-2008-07-01,110701.2,"Consumo (Otros, C. Personales y Nomina",0.187952519
-2008-07-01,74672.6,Intermediarios financieros no bancarios privados,0.473097211
-2008-07-01,298543.5,Vivienda,0.047011251
-2008-08-01,772676.9,Creditos a actividad empresarial,0.069160805
-2008-08-01,62648.2, Bienes de consumo duradero,0.038932448
-2008-08-01,288922.9, Tarjeta de credito,0.179549866
-2008-08-01,111290.2,"Consumo (Otros, C. Personales y Nomina",0.185050094
-2008-08-01,75839.4,Intermediarios financieros no bancarios privados,0.480176662
-2008-08-01,297773.6,Vivienda,0.047130062
-2008-09-01,782531.1,Creditos a actividad empresarial,0.068583161
-2008-09-01,62026.3, Bienes de consumo duradero,0.038286951
-2008-09-01,287224.2, Tarjeta de credito,0.177294774
-2008-09-01,111107.3,"Consumo (Otros, C. Personales y Nomina",0.185596865
-2008-09-01,76474.8,Intermediarios financieros no bancarios privados,0.483032678
-2008-09-01,300673.9,Vivienda,0.047205571
-2008-10-01,829723.5,Creditos a actividad empresarial,0.068594482
-2008-10-01,61676.3, Bienes de consumo duradero,0.037006763
-2008-10-01,280750.5, Tarjeta de credito,0.168454774
-2008-10-01,114321.1,"Consumo (Otros, C. Personales y Nomina",0.183408611
-2008-10-01,74478.1,Intermediarios financieros no bancarios privados,0.497847323
-2008-10-01,305672.9,Vivienda,0.044688047
-2008-11-01,845390.3,Creditos a actividad empresarial,0.067578929
-2008-11-01,60886.4, Bienes de consumo duradero,0.036225536
-2008-11-01,279925.7, Tarjeta de credito,0.166547187
-2008-11-01,113583.9,"Consumo (Otros, C. Personales y Nomina",0.184335994
-2008-11-01,71148.4,Intermediarios financieros no bancarios privados,0.502981242
-2008-11-01,309824.4,Vivienda,0.042331111
-2008-12-01,842839.6,Creditos a actividad empresarial,0.06667245
-2008-12-01,60850.2, Bienes de consumo duradero,0.03676313
-2008-12-01,271240.6, Tarjeta de credito,0.163872154
-2008-12-01,110356,"Consumo (Otros, C. Personales y Nomina",0.185407242
-2008-12-01,63024.5,Intermediarios financieros no bancarios privados,0.509208212
-2008-12-01,306885.4,Vivienda,0.03807675
-2009-01-01,888742.8,Creditos a actividad empresarial,0.06770378
-2009-01-01,60647.6, Bienes de consumo duradero,0.035923197
-2009-01-01,265072.1, Tarjeta de credito,0.157009302
-2009-01-01,114301.4,"Consumo (Otros, C. Personales y Nomina",0.184403467
-2009-01-01,48172.8,Intermediarios financieros no bancarios privados,0.526426156
-2009-01-01,311320.5,Vivienda,0.028534039
-2009-02-01,901330,Creditos a actividad empresarial,0.067033655
-2009-02-01,60063.1, Bienes de consumo duradero,0.035631627
-2009-02-01,250106.4, Tarjeta de credito,0.14837226
-2009-02-01,112996.5,"Consumo (Otros, C. Personales y Nomina",0.185572819
-2009-02-01,48358.1,Intermediarios financieros no bancarios privados,0.534701906
-2009-02-01,312814.2,Vivienda,0.028687793
-2009-03-01,878267.1,Creditos a actividad empresarial,0.067732637
-2009-03-01,59649.8, Bienes de consumo duradero,0.035982379
-2009-03-01,244841, Tarjeta de credito,0.14769474
-2009-03-01,112283.8,"Consumo (Otros, C. Personales y Nomina",0.190861796
-2009-03-01,46307.4,Intermediarios financieros no bancarios privados,0.529794566
-2009-03-01,316401.2,Vivienda,0.027933881
-2009-04-01,873180.9,Creditos a actividad empresarial,0.06780764
-2009-04-01,56618, Bienes de consumo duradero,0.034444197
-2009-04-01,239760.6, Tarjeta de credito,0.145861057
-2009-04-01,111459.5,"Consumo (Otros, C. Personales y Nomina",0.193182375
-2009-04-01,45195.8,Intermediarios financieros no bancarios privados,0.531209419
-2009-04-01,317545.5,Vivienda,0.027495373
-2009-05-01,863727.1,Creditos a actividad empresarial,0.067095709
-2009-05-01,58769.1, Bienes de consumo duradero,0.036108349
-2009-05-01,231003.9, Tarjeta de credito,0.141931209
-2009-05-01,109203.4,"Consumo (Otros, C. Personales y Nomina",0.196318576
-2009-05-01,45349.4,Intermediarios financieros no bancarios privados,0.530682951
-2009-05-01,319523.5,Vivienda,0.027863145
-2009-06-01,857975.1,Creditos a actividad empresarial,0.067853143
+2008-07-01,110701.2,"Consumo (Otros, C. Personales y Nomina",0.069693594
+2008-07-01,751466.9,Creditos a actividad empresarial,0.473097211
+2008-07-01,74672.6,Intermediarios financieros no bancarios privados,0.047011251
+2008-07-01,298543.5,Vivienda,0.187952519
+2008-08-01,62648.2, Bienes de consumo duradero,0.038932451
+2008-08-01,288922.9, Tarjeta de credito,0.179549877
+2008-08-01,111290.2,"Consumo (Otros, C. Personales y Nomina",0.06916081
+2008-08-01,772676.9,Creditos a actividad empresarial,0.480176692
+2008-08-01,75839.4,Intermediarios financieros no bancarios privados,0.047130065
+2008-08-01,297773.6,Vivienda,0.184136251
+2008-09-01,62026.3, Bienes de consumo duradero,0.038355618
+2008-09-01,287224.2, Tarjeta de credito,0.177612748
+2008-09-01,111107.3,"Consumo (Otros, C. Personales y Nomina",0.068706164
+2008-09-01,782531.1,Creditos a actividad empresarial,0.483898986
+2008-09-01,76474.8,Intermediarios financieros no bancarios privados,0.047290233
+2008-09-01,300673.9,Vivienda,0.180951893
+2008-10-01,61676.3, Bienes de consumo duradero,0.037118098
+2008-10-01,280750.5, Tarjeta de credito,0.168961571
+2008-10-01,114321.1,"Consumo (Otros, C. Personales y Nomina",0.068800849
+2008-10-01,829723.5,Creditos a actividad empresarial,0.499345098
+2008-10-01,74478.1,Intermediarios financieros no bancarios privados,0.044333857
+2008-10-01,305672.9,Vivienda,0.181954946
+2008-11-01,60886.4, Bienes de consumo duradero,0.036243257
+2008-11-01,279925.7, Tarjeta de credito,0.166628659
+2008-11-01,113583.9,"Consumo (Otros, C. Personales y Nomina",0.067611988
+2008-11-01,845390.3,Creditos a actividad empresarial,0.503227293
+2008-11-01,71148.4,Intermediarios financieros no bancarios privados,0.042699479
+2008-11-01,309824.4,Vivienda,0.185940099
+2008-12-01,60850.2, Bienes de consumo duradero,0.036519048
+2008-12-01,271240.6, Tarjeta de credito,0.162784157
+2008-12-01,110356,"Consumo (Otros, C. Personales y Nomina",0.066229792
+2008-12-01,842839.6,Creditos a actividad empresarial,0.509955586
+2008-12-01,63024.5,Intermediarios financieros no bancarios privados,0.038132636
+2008-12-01,306885.4,Vivienda,0.185679368
+2009-01-01,60647.6, Bienes de consumo duradero,0.036694506
+2009-01-01,265072.1, Tarjeta de credito,0.160380454
+2009-01-01,114301.4,"Consumo (Otros, C. Personales y Nomina",0.06915745
+2009-01-01,888742.8,Creditos a actividad empresarial,0.531734883
+2009-01-01,48172.8,Intermediarios financieros no bancarios privados,0.02882179
+2009-01-01,311320.5,Vivienda,0.186263078
+2009-02-01,60063.1, Bienes de consumo duradero,0.035935757
+2009-02-01,250106.4, Tarjeta de credito,0.149638678
+2009-02-01,112996.5,"Consumo (Otros, C. Personales y Nomina",0.067260238
+2009-02-01,901330,Creditos a actividad empresarial,0.536509274
+2009-02-01,48358.1,Intermediarios financieros no bancarios privados,0.028784762
+2009-02-01,312814.2,Vivienda,0.186200081
+2009-03-01,59649.8, Bienes de consumo duradero,0.035506053
+2009-03-01,244841, Tarjeta de credito,0.145739593
+2009-03-01,112283.8,"Consumo (Otros, C. Personales y Nomina",0.068065717
+2009-03-01,878267.1,Creditos a actividad empresarial,0.532399864
+2009-03-01,46307.4,Intermediarios financieros no bancarios privados,0.028071248
+2009-03-01,316401.2,Vivienda,0.191800371
+2009-04-01,56618, Bienes de consumo duradero,0.034321467
+2009-04-01,239760.6, Tarjeta de credito,0.145670417
+2009-04-01,111459.5,"Consumo (Otros, C. Personales y Nomina",0.067719016
+2009-04-01,873180.9,Creditos a actividad empresarial,0.53051513
+2009-04-01,45195.8,Intermediarios financieros no bancarios privados,0.027459437
+2009-04-01,317545.5,Vivienda,0.192929887
+2009-05-01,58769.1, Bienes de consumo duradero,0.035706114
+2009-05-01,231003.9, Tarjeta de credito,0.142012041
+2009-05-01,109203.4,"Consumo (Otros, C. Personales y Nomina",0.067133921
+2009-05-01,863727.1,Creditos a actividad empresarial,0.530985182
+2009-05-01,45349.4,Intermediarios financieros no bancarios privados,0.027879013
+2009-05-01,319523.5,Vivienda,0.196430382
 2009-06-01,57842.8, Bienes de consumo duradero,0.035733419
 2009-06-01,227155.4, Tarjeta de credito,0.14032929
-2009-06-01,109836,"Consumo (Otros, C. Personales y Nomina",0.198611419
-2009-06-01,44423.4,Intermediarios financieros no bancarios privados,0.530029384
-2009-06-01,321498.5,Vivienda,0.027443346
-2009-07-01,861968.6,Creditos a actividad empresarial,0.068575179
+2009-06-01,109836,"Consumo (Otros, C. Personales y Nomina",0.067853143
+2009-06-01,857975.1,Creditos a actividad empresarial,0.530029384
+2009-06-01,44423.4,Intermediarios financieros no bancarios privados,0.027443346
+2009-06-01,321498.5,Vivienda,0.198611419
 2009-07-01,56922.2, Bienes de consumo duradero,0.035144465
 2009-07-01,222288.6, Tarjeta de credito,0.13724371
-2009-07-01,111068.7,"Consumo (Otros, C. Personales y Nomina",0.199769668
-2009-07-01,43855.6,Intermediarios financieros no bancarios privados,0.532189993
-2009-07-01,323559.6,Vivienda,0.027076986
-2009-08-01,849965.6,Creditos a actividad empresarial,0.069445925
-2009-08-01,56346.7, Bienes de consumo duradero,0.035220168
-2009-08-01,220241.4, Tarjeta de credito,0.137664478
-2009-08-01,111102.5,"Consumo (Otros, C. Personales y Nomina",0.199070171
-2009-08-01,43704.9,Intermediarios financieros no bancarios privados,0.531280997
-2009-08-01,318480.8,Vivienda,0.027318262
-2009-09-01,865994.2,Creditos a actividad empresarial,0.068191017
-2009-09-01,55724.7, Bienes de consumo duradero,0.03451229
-2009-09-01,217163.8, Tarjeta de credito,0.134497271
-2009-09-01,110103.5,"Consumo (Otros, C. Personales y Nomina",0.199730527
-2009-09-01,43155.7,Intermediarios financieros no bancarios privados,0.536341033
-2009-09-01,322491.6,Vivienda,0.026727861
-2009-10-01,861396.2,Creditos a actividad empresarial,0.069684413
-2009-10-01,55130.7, Bienes de consumo duradero,0.034255069
-2009-10-01,213628.7, Tarjeta de credito,0.132736674
-2009-10-01,112151.3,"Consumo (Otros, C. Personales y Nomina",0.20197546
-2009-10-01,42047.7,Intermediarios financieros no bancarios privados,0.535222406
-2009-10-01,325062.8,Vivienda,0.02612604
-2009-11-01,867469.3,Creditos a actividad empresarial,0.06988947
-2009-11-01,54645.7, Bienes de consumo duradero,0.033798166
-2009-11-01,213678.4, Tarjeta de credito,0.132159312
-2009-11-01,112999,"Consumo (Otros, C. Personales y Nomina",0.201307081
-2009-11-01,42553.8,Intermediarios financieros no bancarios privados,0.536526601
-2009-11-01,325478.2,Vivienda,0.02631937
-2009-12-01,882382.6,Creditos a actividad empresarial,0.06921974
-2009-12-01,54316.8, Bienes de consumo duradero,0.033354904
-2009-12-01,207788.3, Tarjeta de credito,0.127598805
-2009-12-01,112720.9,"Consumo (Otros, C. Personales y Nomina",0.20325313
-2009-12-01,40254,Intermediarios financieros no bancarios privados,0.541854212
-2009-12-01,330987.6,Vivienda,0.024719208
-2010-01-01,876909.1,Creditos a actividad empresarial,0.070058102
-2010-01-01,53810.7, Bienes de consumo duradero,0.033114572
-2010-01-01,204245.5, Tarjeta de credito,0.12569066
-2010-01-01,113843.4,"Consumo (Otros, C. Personales y Nomina",0.206310949
-2010-01-01,40924.5,Intermediarios financieros no bancarios privados,0.539641184
-2010-01-01,335252.3,Vivienda,0.025184532
-2010-02-01,879054.5,Creditos a actividad empresarial,0.070773287
-2010-02-01,53513.6, Bienes de consumo duradero,0.032876814
-2010-02-01,201689.9, Tarjeta de credito,0.123910956
-2010-02-01,115197.7,"Consumo (Otros, C. Personales y Nomina",0.207204299
-2010-02-01,40978.2,Intermediarios financieros no bancarios privados,0.540059187
-2010-02-01,337266.5,Vivienda,0.025175519
-2010-03-01,878626.6,Creditos a actividad empresarial,0.07236535
-2010-03-01,53049.2, Bienes de consumo duradero,0.032586801
-2010-03-01,197891.7, Tarjeta de credito,0.121559937
-2010-03-01,117806.1,"Consumo (Otros, C. Personales y Nomina",0.208579125
-2010-03-01,41008.2,Intermediarios financieros no bancarios privados,0.539718411
-2010-03-01,339553.3,Vivienda,0.025190315
-2010-04-01,876652.2,Creditos a actividad empresarial,0.073516607
-2010-04-01,52399.2, Bienes de consumo duradero,0.032149691
-2010-04-01,197397.2, Tarjeta de credito,0.121113663
-2010-04-01,119821.1,"Consumo (Otros, C. Personales y Nomina",0.209772944
-2010-04-01,41682.6,Intermediarios financieros no bancarios privados,0.537872669
-2010-04-01,341898.6,Vivienda,0.025574488
-2010-05-01,893413.1,Creditos a actividad empresarial,0.073536863
+2009-07-01,111068.7,"Consumo (Otros, C. Personales y Nomina",0.068575179
+2009-07-01,861968.6,Creditos a actividad empresarial,0.532189993
+2009-07-01,43855.6,Intermediarios financieros no bancarios privados,0.027076986
+2009-07-01,323559.6,Vivienda,0.201604727
+2009-08-01,56346.7, Bienes de consumo duradero,0.035108713
+2009-08-01,220241.4, Tarjeta de credito,0.137228836
+2009-08-01,111102.5,"Consumo (Otros, C. Personales y Nomina",0.069226162
+2009-08-01,849965.6,Creditos a actividad empresarial,0.529599749
+2009-08-01,43704.9,Intermediarios financieros no bancarios privados,0.027231813
+2009-08-01,318480.8,Vivienda,0.197737682
+2009-09-01,55724.7, Bienes de consumo duradero,0.034598233
+2009-09-01,217163.8, Tarjeta de credito,0.134832199
+2009-09-01,110103.5,"Consumo (Otros, C. Personales y Nomina",0.068360827
+2009-09-01,865994.2,Creditos a actividad empresarial,0.537676639
+2009-09-01,43155.7,Intermediarios financieros no bancarios privados,0.026838886
+2009-09-01,322491.6,Vivienda,0.20056019
+2009-10-01,55130.7, Bienes de consumo duradero,0.034286238
+2009-10-01,213628.7, Tarjeta de credito,0.132857453
+2009-10-01,112151.3,"Consumo (Otros, C. Personales y Nomina",0.06974782
+2009-10-01,861396.2,Creditos a actividad empresarial,0.535709413
+2009-10-01,42047.7,Intermediarios financieros no bancarios privados,0.02602118
+2009-10-01,325062.8,Vivienda,0.20116481
+2009-11-01,54645.7, Bienes de consumo duradero,0.03381744
+2009-11-01,213678.4, Tarjeta de credito,0.132234678
+2009-11-01,112999,"Consumo (Otros, C. Personales y Nomina",0.069929326
+2009-11-01,867469.3,Creditos a actividad empresarial,0.538691296
+2009-11-01,42553.8,Intermediarios financieros no bancarios privados,0.02642556
+2009-11-01,325478.2,Vivienda,0.202119283
+2009-12-01,54316.8, Bienes de consumo duradero,0.033730286
+2009-12-01,207788.3, Tarjeta de credito,0.129034824
+2009-12-01,112720.9,"Consumo (Otros, C. Personales y Nomina",0.069998751
+2009-12-01,882382.6,Creditos a actividad empresarial,0.542829702
+2009-12-01,40254,Intermediarios financieros no bancarios privados,0.02476371
+2009-12-01,330987.6,Vivienda,0.203619043
+2010-01-01,53810.7, Bienes de consumo duradero,0.033103606
+2010-01-01,204245.5, Tarjeta de credito,0.125649037
+2010-01-01,113843.4,"Consumo (Otros, C. Personales y Nomina",0.070181307
+2010-01-01,876909.1,Creditos a actividad empresarial,0.540590203
+2010-01-01,40924.5,Intermediarios financieros no bancarios privados,0.025228822
+2010-01-01,335252.3,Vivienda,0.206673769
+2010-02-01,53513.6, Bienes de consumo duradero,0.032989654
+2010-02-01,201689.9, Tarjeta de credito,0.124336244
+2010-02-01,115197.7,"Consumo (Otros, C. Personales y Nomina",0.070959109
+2010-02-01,879054.5,Creditos a actividad empresarial,0.541477167
+2010-02-01,40978.2,Intermediarios financieros no bancarios privados,0.02524162
+2010-02-01,337266.5,Vivienda,0.207748335
+2010-03-01,53049.2, Bienes de consumo duradero,0.032677076
+2010-03-01,197891.7, Tarjeta de credito,0.1216085
+2010-03-01,117806.1,"Consumo (Otros, C. Personales y Nomina",0.07239426
+2010-03-01,878626.6,Creditos a actividad empresarial,0.539934029
+2010-03-01,41008.2,Intermediarios financieros no bancarios privados,0.025200378
+2010-03-01,339553.3,Vivienda,0.208662453
+2010-04-01,52399.2, Bienes de consumo duradero,0.032200381
+2010-04-01,197397.2, Tarjeta de credito,0.121168744
+2010-04-01,119821.1,"Consumo (Otros, C. Personales y Nomina",0.073550041
+2010-04-01,876652.2,Creditos a actividad empresarial,0.538117287
+2010-04-01,41682.6,Intermediarios financieros no bancarios privados,0.025586119
+2010-04-01,341898.6,Vivienda,0.209868346
 2010-05-01,51658.2, Bienes de consumo duradero,0.031338716
 2010-05-01,196708.3, Tarjeta de credito,0.119334113
-2010-05-01,121216.9,"Consumo (Otros, C. Personales y Nomina",0.208806595
-2010-05-01,41193.1,Intermediarios financieros no bancarios privados,0.541993704
-2010-05-01,344193.2,Vivienda,0.024990008
-2010-06-01,898077.2,Creditos a actividad empresarial,0.07527272
-2010-06-01,55189.9, Bienes de consumo duradero,0.033265807
-2010-06-01,195484.8, Tarjeta de credito,0.117828799
-2010-06-01,124881.8,"Consumo (Otros, C. Personales y Nomina",0.209154605
-2010-06-01,38424.7,Intermediarios financieros no bancarios privados,0.541317575
-2010-06-01,346999.6,Vivienda,0.023160554
-2010-07-01,893543.7,Creditos a actividad empresarial,0.076835965
-2010-07-01,54692.7, Bienes de consumo duradero,0.032945086
-2010-07-01,195119.4, Tarjeta de credito,0.117533516
-2010-07-01,127556.7,"Consumo (Otros, C. Personales y Nomina",0.211207812
-2010-07-01,38575,Intermediarios financieros no bancarios privados,0.538241369
-2010-07-01,350629.7,Vivienda,0.023236313
-2010-08-01,908381.4,Creditos a actividad empresarial,0.077344841
-2010-08-01,55059.8, Bienes de consumo duradero,0.032762025
-2010-08-01,197127.1, Tarjeta de credito,0.117295794
-2010-08-01,129985.6,"Consumo (Otros, C. Personales y Nomina",0.209573234
-2010-08-01,37836,Intermediarios financieros no bancarios privados,0.540510754
-2010-08-01,352208.4,Vivienda,0.022513412
-2010-09-01,929686.9,Creditos a actividad empresarial,0.077134921
-2010-09-01,55357, Bienes de consumo duradero,0.032430938
-2010-09-01,198166.9, Tarjeta de credito,0.116096219
-2010-09-01,131663.1,"Consumo (Otros, C. Personales y Nomina",0.207681382
-2010-09-01,37550.3,Intermediarios financieros no bancarios privados,0.54465773
-2010-09-01,354495.4,Vivienda,0.02199887
-2010-10-01,945972.8,Creditos a actividad empresarial,0.078322061
-2010-10-01,55389.7, Bienes de consumo duradero,0.031989867
-2010-10-01,199177.7, Tarjeta de credito,0.115033448
-2010-10-01,135612.8,"Consumo (Otros, C. Personales y Nomina",0.206302956
-2010-10-01,38114.6,Intermediarios financieros no bancarios privados,0.546338835
-2010-10-01,357208.7,Vivienda,0.022012775
-2010-11-01,955037.2,Creditos a actividad empresarial,0.0789338
-2010-11-01,55805.8, Bienes de consumo duradero,0.031805
-2010-11-01,203585.2, Tarjeta de credito,0.116027854
-2010-11-01,138499.1,"Consumo (Otros, C. Personales y Nomina",0.207033988
-2010-11-01,38429.4,Intermediarios financieros no bancarios privados,0.544297509
-2010-11-01,363266.7,Vivienda,0.021901793
-2010-12-01,963947.5,Creditos a actividad empresarial,0.079495701
-2010-12-01,57392, Bienes de consumo duradero,0.032428959
-2010-12-01,202535.7, Tarjeta de credito,0.114441419
-2010-12-01,140689.6,"Consumo (Otros, C. Personales y Nomina",0.208391886
-2010-12-01,36404.5,Intermediarios financieros no bancarios privados,0.544671976
-2010-12-01,368807,Vivienda,0.020570115
-2011-01-01,973076,Creditos a actividad empresarial,0.080776396
-2011-01-01,58478.1, Bienes de consumo duradero,0.032930205
-2011-01-01,201471.7, Tarjeta de credito,0.113452803
-2011-01-01,143444.3,"Consumo (Otros, C. Personales y Nomina",0.204844862
-2011-01-01,35582,Intermediarios financieros no bancarios privados,0.547958844
-2011-01-01,363767.5,Vivienda,0.020036946
-2011-02-01,987156.9,Creditos a actividad empresarial,0.082427805
-2011-02-01,58813.9, Bienes de consumo duradero,0.032752943
-2011-02-01,200678.2, Tarjeta de credito,0.111755923
-2011-02-01,148014.2,"Consumo (Otros, C. Personales y Nomina",0.203740872
-2011-02-01,35165.7,Intermediarios financieros no bancarios privados,0.549738988
-2011-02-01,365854,Vivienda,0.019583469
-2011-03-01,1003299.1,Creditos a actividad empresarial,0.084628114
-2011-03-01,59479.8, Bienes de consumo duradero,0.032654425
-2011-03-01,200329.3, Tarjeta de credito,0.109980835
-2011-03-01,154149.5,"Consumo (Otros, C. Personales y Nomina",0.203146782
-2011-03-01,34204.8,Intermediarios financieros no bancarios privados,0.550811455
-2011-03-01,370030.4,Vivienda,0.018778444
-2011-04-01,997149.3,Creditos a actividad empresarial,0.08665274
+2010-05-01,121216.9,"Consumo (Otros, C. Personales y Nomina",0.073536863
+2010-05-01,893413.1,Creditos a actividad empresarial,0.541993704
+2010-05-01,41193.1,Intermediarios financieros no bancarios privados,0.024990008
+2010-05-01,344193.2,Vivienda,0.208806595
+2010-06-01,55189.9, Bienes de consumo duradero,0.033265805
+2010-06-01,195484.8, Tarjeta de credito,0.117828792
+2010-06-01,124881.8,"Consumo (Otros, C. Personales y Nomina",0.075272715
+2010-06-01,898077.2,Creditos a actividad empresarial,0.541317543
+2010-06-01,38424.7,Intermediarios financieros no bancarios privados,0.023160553
+2010-06-01,346999.6,Vivienda,0.209479205
+2010-07-01,54692.7, Bienes de consumo duradero,0.033017281
+2010-07-01,195119.4, Tarjeta de credito,0.117791077
+2010-07-01,127556.7,"Consumo (Otros, C. Personales y Nomina",0.077004343
+2010-07-01,893543.7,Creditos a actividad empresarial,0.539420862
+2010-07-01,38575,Intermediarios financieros no bancarios privados,0.023287232
+2010-07-01,350629.7,Vivienda,0.208830022
+2010-08-01,55059.8, Bienes de consumo duradero,0.032792827
+2010-08-01,197127.1, Tarjeta de credito,0.117406074
+2010-08-01,129985.6,"Consumo (Otros, C. Personales y Nomina",0.07741756
+2010-08-01,908381.4,Creditos a actividad empresarial,0.541018937
+2010-08-01,37836,Intermediarios financieros no bancarios privados,0.022192266
+2010-08-01,352208.4,Vivienda,0.206583741
+2010-09-01,55357, Bienes de consumo duradero,0.032469005
+2010-09-01,198166.9, Tarjeta de credito,0.11623249
+2010-09-01,131663.1,"Consumo (Otros, C. Personales y Nomina",0.07722546
+2010-09-01,929686.9,Creditos a actividad empresarial,0.545297039
+2010-09-01,37550.3,Intermediarios financieros no bancarios privados,0.021727999
+2010-09-01,354495.4,Vivienda,0.205124214
+2010-10-01,55389.7, Bienes de consumo duradero,0.032050539
+2010-10-01,199177.7, Tarjeta de credito,0.11525162
+2010-10-01,135612.8,"Consumo (Otros, C. Personales y Nomina",0.078470606
+2010-10-01,945972.8,Creditos a actividad empresarial,0.543916919
+2010-10-01,38114.6,Intermediarios financieros no bancarios privados,0.021915192
+2010-10-01,357208.7,Vivienda,0.205388417
+2010-11-01,55805.8, Bienes de consumo duradero,0.032087306
+2010-11-01,203585.2, Tarjeta de credito,0.117057737
+2010-11-01,138499.1,"Consumo (Otros, C. Personales y Nomina",0.079634429
+2010-11-01,955037.2,Creditos a actividad empresarial,0.543452855
+2010-11-01,38429.4,Intermediarios financieros no bancarios privados,0.021867805
+2010-11-01,363266.7,Vivienda,0.206712707
+2010-12-01,57392, Bienes de consumo duradero,0.032658253
+2010-12-01,202535.7, Tarjeta de credito,0.115250594
+2010-12-01,140689.6,"Consumo (Otros, C. Personales y Nomina",0.079494704
+2010-12-01,963947.5,Creditos a actividad empresarial,0.544665144
+2010-12-01,36404.5,Intermediarios financieros no bancarios privados,0.020569857
+2010-12-01,368807,Vivienda,0.208389272
+2011-01-01,58478.1, Bienes de consumo duradero,0.033042238
+2011-01-01,201471.7, Tarjeta de credito,0.113838785
+2011-01-01,143444.3,"Consumo (Otros, C. Personales y Nomina",0.080797217
+2011-01-01,973076,Creditos a actividad empresarial,0.54810008
+2011-01-01,35582,Intermediarios financieros no bancarios privados,0.020042111
+2011-01-01,363767.5,Vivienda,0.204897661
+2011-02-01,58813.9, Bienes de consumo duradero,0.033127837
+2011-02-01,200678.2, Tarjeta de credito,0.111714496
+2011-02-01,148014.2,"Consumo (Otros, C. Personales y Nomina",0.082397249
+2011-02-01,987156.9,Creditos a actividad empresarial,0.549535202
+2011-02-01,35165.7,Intermediarios financieros no bancarios privados,0.019576209
+2011-02-01,365854,Vivienda,0.203665346
+2011-03-01,59479.8, Bienes de consumo duradero,0.033111498
+2011-03-01,200329.3, Tarjeta de credito,0.10997126
+2011-03-01,154149.5,"Consumo (Otros, C. Personales y Nomina",0.084620746
+2011-03-01,1003299.1,Creditos a actividad empresarial,0.5507635
+2011-03-01,34204.8,Intermediarios financieros no bancarios privados,0.018776809
+2011-03-01,370030.4,Vivienda,0.203129095
 2011-04-01,59638.3, Bienes de consumo duradero,0.032267105
 2011-04-01,203386.3, Tarjeta de credito,0.110041486
-2011-04-01,160157.6,"Consumo (Otros, C. Personales y Nomina",0.201598706
-2011-04-01,55329.1,Intermediarios financieros no bancarios privados,0.539504335
-2011-04-01,372608.7,Vivienda,0.029935627
-2011-05-01,1005273.1,Creditos a actividad empresarial,0.088956422
-2011-05-01,58360.1, Bienes de consumo duradero,0.03141052
-2011-05-01,204820, Tarjeta de credito,0.110238036
-2011-05-01,165279.2,"Consumo (Otros, C. Personales y Nomina",0.211481408
-2011-05-01,31319,Intermediarios financieros no bancarios privados,0.541057183
-2011-05-01,392928.1,Vivienda,0.016856484
-2011-06-01,1006745.9,Creditos a actividad empresarial,0.091383927
-2011-06-01,58961.4, Bienes de consumo duradero,0.031502038
-2011-06-01,207074.2, Tarjeta de credito,0.110636098
-2011-06-01,171040.5,"Consumo (Otros, C. Personales y Nomina",0.211545907
-2011-06-01,31903.4,Intermediarios financieros no bancarios privados,0.537886605
-2011-06-01,395944,Vivienda,0.017045425
-2011-07-01,1023261.2,Creditos a actividad empresarial,0.093690097
-2011-07-01,57229.5, Bienes de consumo duradero,0.03010609
-2011-07-01,210238.2, Tarjeta de credito,0.110597683
-2011-07-01,178098.1,"Consumo (Otros, C. Personales y Nomina",0.209271768
-2011-07-01,34290.4,Intermediarios financieros no bancarios privados,0.538295696
-2011-07-01,397810.5,Vivienda,0.018038771
-2011-08-01,1029431.7,Creditos a actividad empresarial,0.095795032
-2011-08-01,57547.6, Bienes de consumo duradero,0.029993282
-2011-08-01,213852.3, Tarjeta de credito,0.111457859
-2011-08-01,183800.3,"Consumo (Otros, C. Personales y Nomina",0.208500831
-2011-08-01,34004.2,Intermediarios financieros no bancarios privados,0.53653037
-2011-08-01,400047,Vivienda,0.017722677
-2011-09-01,1065736.2,Creditos a actividad empresarial,0.0960507
-2011-09-01,59707.9, Bienes de consumo duradero,0.030304139
-2011-09-01,216908, Tarjeta de credito,0.110089456
-2011-09-01,189247.6,"Consumo (Otros, C. Personales y Nomina",0.204823192
-2011-09-01,35128.2,Intermediarios financieros no bancarios privados,0.540903602
-2011-09-01,403560.8,Vivienda,0.017828962
-2011-10-01,1058020.1,Creditos a actividad empresarial,0.098265249
-2011-10-01,59787, Bienes de consumo duradero,0.030313864
-2011-10-01,220531.8, Tarjeta de credito,0.111816465
-2011-10-01,193805.2,"Consumo (Otros, C. Personales y Nomina",0.206234109
-2011-10-01,33373.3,Intermediarios financieros no bancarios privados,0.536449015
-2011-10-01,406748.5,Vivienda,0.016921298
-2011-11-01,1082859.3,Creditos a actividad empresarial,0.099690335
-2011-11-01,60586.2, Bienes de consumo duradero,0.029977951
-2011-11-01,230002.8, Tarjeta de credito,0.113805002
-2011-11-01,201476.7,"Consumo (Otros, C. Personales y Nomina",0.203503083
-2011-11-01,34815.7,Intermediarios financieros no bancarios privados,0.535796977
-2011-11-01,411284.9,Vivienda,0.01722675
-2011-12-01,1117218.8,Creditos a actividad empresarial,0.099721196
-2011-12-01,62504.5, Bienes de consumo duradero,0.030238108
-2011-12-01,229096.7, Tarjeta de credito,0.110831231
-2011-12-01,206131.4,"Consumo (Otros, C. Personales y Nomina",0.20099526
-2011-12-01,36652.9,Intermediarios financieros no bancarios privados,0.540482404
-2011-12-01,415472.7,Vivienda,0.017731753
-2012-01-01,1098825.8,Creditos a actividad empresarial,0.101557744
-2012-01-01,63502, Bienes de consumo duradero,0.030921346
-2012-01-01,228767, Tarjeta de credito,0.111394659
-2012-01-01,208565.3,"Consumo (Otros, C. Personales y Nomina",0.204224969
-2012-01-01,34593,Intermediarios financieros no bancarios privados,0.535056739
-2012-01-01,419409.1,Vivienda,0.016844542
-2012-02-01,1095622.1,Creditos a actividad empresarial,0.103899643
-2012-02-01,63919.1, Bienes de consumo duradero,0.031041766
-2012-02-01,229188.8, Tarjeta de credito,0.111303587
-2012-02-01,213943.1,"Consumo (Otros, C. Personales y Nomina",0.204775293
-2012-02-01,34799.6,Intermediarios financieros no bancarios privados,0.532079533
-2012-02-01,421659.4,Vivienda,0.016900129
-2012-03-01,1112226.9,Creditos a actividad empresarial,0.105471236
+2011-04-01,160157.6,"Consumo (Otros, C. Personales y Nomina",0.08665274
+2011-04-01,997149.3,Creditos a actividad empresarial,0.539504335
+2011-04-01,55329.1,Intermediarios financieros no bancarios privados,0.029935627
+2011-04-01,372608.7,Vivienda,0.201598706
+2011-05-01,58360.1, Bienes de consumo duradero,0.031410519
+2011-05-01,204820, Tarjeta de credito,0.11023803
+2011-05-01,165279.2,"Consumo (Otros, C. Personales y Nomina",0.088956417
+2011-05-01,1005273.1,Creditos a actividad empresarial,0.541057154
+2011-05-01,31319,Intermediarios financieros no bancarios privados,0.016856483
+2011-05-01,392928.1,Vivienda,0.210273387
+2011-06-01,58961.4, Bienes de consumo duradero,0.03155288
+2011-06-01,207074.2, Tarjeta de credito,0.110814659
+2011-06-01,171040.5,"Consumo (Otros, C. Personales y Nomina",0.091531416
+2011-06-01,1006745.9,Creditos a actividad empresarial,0.538754724
+2011-06-01,31903.4,Intermediarios financieros no bancarios privados,0.017072935
+2011-06-01,395944,Vivienda,0.208494575
+2011-07-01,57229.5, Bienes de consumo duradero,0.030135676
+2011-07-01,210238.2, Tarjeta de credito,0.110706373
+2011-07-01,178098.1,"Consumo (Otros, C. Personales y Nomina",0.09378217
+2011-07-01,1023261.2,Creditos a actividad empresarial,0.538824706
+2011-07-01,34290.4,Intermediarios financieros no bancarios privados,0.017890026
+2011-07-01,397810.5,Vivienda,0.207546143
+2011-08-01,57547.6, Bienes de consumo duradero,0.030023799
+2011-08-01,213852.3, Tarjeta de credito,0.111571263
+2011-08-01,183800.3,"Consumo (Otros, C. Personales y Nomina",0.0958925
+2011-08-01,1029431.7,Creditos a actividad empresarial,0.537076269
+2011-08-01,34004.2,Intermediarios financieros no bancarios privados,0.017299206
+2011-08-01,400047,Vivienda,0.203518845
+2011-09-01,59707.9, Bienes de consumo duradero,0.030375638
+2011-09-01,216908, Tarjeta de credito,0.110349198
+2011-09-01,189247.6,"Consumo (Otros, C. Personales y Nomina",0.09627732
+2011-09-01,1065736.2,Creditos a actividad empresarial,0.538645286
+2011-09-01,35128.2,Intermediarios financieros no bancarios privados,0.017754524
+2011-09-01,403560.8,Vivienda,0.203968039
+2011-10-01,59787, Bienes de consumo duradero,0.030217596
+2011-10-01,220531.8, Tarjeta de credito,0.111461368
+2011-10-01,193805.2,"Consumo (Otros, C. Personales y Nomina",0.097953187
+2011-10-01,1058020.1,Creditos a actividad empresarial,0.531612933
+2011-10-01,33373.3,Intermediarios financieros no bancarios privados,0.016768753
+2011-10-01,406748.5,Vivienda,0.20437491
+2011-11-01,60586.2, Bienes de consumo duradero,0.030442151
+2011-11-01,230002.8, Tarjeta de credito,0.11556724
+2011-11-01,201476.7,"Consumo (Otros, C. Personales y Nomina",0.099640422
+2011-11-01,1082859.3,Creditos a actividad empresarial,0.535528713
+2011-11-01,34815.7,Intermediarios financieros no bancarios privados,0.017218125
+2011-11-01,411284.9,Vivienda,0.203401193
+2011-12-01,62504.5, Bienes de consumo duradero,0.030911638
+2011-12-01,229096.7, Tarjeta de credito,0.11329991
+2011-12-01,206131.4,"Consumo (Otros, C. Personales y Nomina",0.099688995
+2011-12-01,1117218.8,Creditos a actividad empresarial,0.540307876
+2011-12-01,36652.9,Intermediarios financieros no bancarios privados,0.017726027
+2011-12-01,415472.7,Vivienda,0.200930357
+2012-01-01,63502, Bienes de consumo duradero,0.030710753
+2012-01-01,228767, Tarjeta de credito,0.111372039
+2012-01-01,208565.3,"Consumo (Otros, C. Personales y Nomina",0.101537122
+2012-01-01,1098825.8,Creditos a actividad empresarial,0.534948091
+2012-01-01,34593,Intermediarios financieros no bancarios privados,0.016841122
+2012-01-01,419409.1,Vivienda,0.2041835
+2012-02-01,63919.1, Bienes de consumo duradero,0.031118127
+2012-02-01,229188.8, Tarjeta de credito,0.111280354
+2012-02-01,213943.1,"Consumo (Otros, C. Personales y Nomina",0.103877955
+2012-02-01,1095622.1,Creditos a actividad empresarial,0.53196847
+2012-02-01,34799.6,Intermediarios financieros no bancarios privados,0.016896601
+2012-02-01,421659.4,Vivienda,0.20473255
 2012-03-01,64349.1, Bienes de consumo duradero,0.030749466
 2012-03-01,230486.8, Tarjeta de credito,0.110139008
-2012-03-01,220718.6,"Consumo (Otros, C. Personales y Nomina",0.203857571
-2012-03-01,38297.9,Intermediarios financieros no bancarios privados,0.53148192
-2012-03-01,426610.7,Vivienda,0.018300799
-2012-04-01,1113407.2,Creditos a actividad empresarial,0.106875156
-2012-04-01,64667.5, Bienes de consumo duradero,0.030747404
-2012-04-01,234751.1, Tarjeta de credito,0.111616915
-2012-04-01,224778.3,"Consumo (Otros, C. Personales y Nomina",0.203237308
-2012-04-01,38135.9,Intermediarios financieros no bancarios privados,0.529390819
-2012-04-01,427445.8,Vivienda,0.018132445
-2012-05-01,1155715.4,Creditos a actividad empresarial,0.106356881
-2012-05-01,65234.3, Bienes de consumo duradero,0.030263291
-2012-05-01,236172.6, Tarjeta de credito,0.109564448
-2012-05-01,229258.5,"Consumo (Otros, C. Personales y Nomina",0.199996502
-2012-05-01,38073.8,Intermediarios financieros no bancarios privados,0.536155847
-2012-05-01,431104.2,Vivienda,0.017663077
-2012-06-01,1156918.5,Creditos a actividad empresarial,0.108369919
-2012-06-01,65879, Bienes de consumo duradero,0.030337497
-2012-06-01,239425.4, Tarjeta de credito,0.110256187
-2012-06-01,235329.3,"Consumo (Otros, C. Personales y Nomina",0.200268602
-2012-06-01,39094.3,Intermediarios financieros no bancarios privados,0.532764787
-2012-06-01,434890.7,Vivienda,0.018003054
-2012-07-01,1159261.5,Creditos a actividad empresarial,0.109976666
-2012-07-01,66305.7, Bienes de consumo duradero,0.030341049
-2012-07-01,243488.6, Tarjeta de credito,0.111418771
-2012-07-01,240337.1,"Consumo (Otros, C. Personales y Nomina",0.200347011
-2012-07-01,38125.8,Intermediarios financieros no bancarios privados,0.530470388
-2012-07-01,437827.6,Vivienda,0.017446114
-2012-08-01,1158325.5,Creditos a actividad empresarial,0.11222355
-2012-08-01,67774.1, Bienes de consumo duradero,0.030802343
-2012-08-01,247383.4, Tarjeta de credito,0.112432159
-2012-08-01,246924.4,"Consumo (Otros, C. Personales y Nomina",0.200368279
-2012-08-01,39014.7,Intermediarios financieros no bancarios privados,0.526442101
-2012-08-01,440868.4,Vivienda,0.017731614
-2012-09-01,1172250.3,Creditos a actividad empresarial,0.11307207
-2012-09-01,67898, Bienes de consumo duradero,0.030450506
-2012-09-01,251276.2, Tarjeta de credito,0.112690912
-2012-09-01,252126.1,"Consumo (Otros, C. Personales y Nomina",0.199817623
-2012-09-01,40681.9,Intermediarios financieros no bancarios privados,0.525724103
-2012-09-01,445549.8,Vivienda,0.018244786
-2012-10-01,1177560.4,Creditos a actividad empresarial,0.114089499
-2012-10-01,68916.2, Bienes de consumo duradero,0.030719447
-2012-10-01,255061.2, Tarjeta de credito,0.113693717
-2012-10-01,255949.1,"Consumo (Otros, C. Personales y Nomina",0.19953403
-2012-10-01,38283.7,Intermediarios financieros no bancarios privados,0.52489841
-2012-10-01,447635.9,Vivienda,0.017064987
-2012-11-01,1194907.3,Creditos a actividad empresarial,0.113845843
-2012-11-01,69788.4, Bienes de consumo duradero,0.030532445
-2012-11-01,266579.5, Tarjeta de credito,0.116628607
-2012-11-01,260218.9,"Consumo (Otros, C. Personales y Nomina",0.197696491
-2012-11-01,42341.4,Intermediarios financieros no bancarios privados,0.522772284
-2012-11-01,451877.4,Vivienda,0.018524375
-2012-12-01,1212257.4,Creditos a actividad empresarial,0.112756503
-2012-12-01,70838.4, Bienes de consumo duradero,0.030701774
-2012-12-01,266933.4, Tarjeta de credito,0.115690487
-2012-12-01,260163.8,"Consumo (Otros, C. Personales y Nomina",0.197878617
-2012-12-01,40546.7,Intermediarios financieros no bancarios privados,0.525399401
-2012-12-01,456566.6,Vivienda,0.017573175
-2013-01-01,1205711.7,Creditos a actividad empresarial,0.113189964
-2013-01-01,71767.1, Bienes de consumo duradero,0.031112895
-2013-01-01,266388.5, Tarjeta de credito,0.115486307
-2013-01-01,261091.6,"Consumo (Otros, C. Personales y Nomina",0.200011324
-2013-01-01,40349.1,Intermediarios financieros no bancarios privados,0.522707218
-2013-01-01,461359.6,Vivienda,0.017492379
-2013-02-01,1216426,Creditos a actividad empresarial,0.11408021
+2012-03-01,220718.6,"Consumo (Otros, C. Personales y Nomina",0.105471236
+2012-03-01,1112226.9,Creditos a actividad empresarial,0.53148192
+2012-03-01,38297.9,Intermediarios financieros no bancarios privados,0.018300799
+2012-03-01,426610.7,Vivienda,0.203857571
+2012-04-01,64667.5, Bienes de consumo duradero,0.030747402
+2012-04-01,234751.1, Tarjeta de credito,0.11161691
+2012-04-01,224778.3,"Consumo (Otros, C. Personales y Nomina",0.106875151
+2012-04-01,1113407.2,Creditos a actividad empresarial,0.529390794
+2012-04-01,38135.9,Intermediarios financieros no bancarios privados,0.018132445
+2012-04-01,427445.8,Vivienda,0.198636424
+2012-05-01,65234.3, Bienes de consumo duradero,0.030314739
+2012-05-01,236172.6, Tarjeta de credito,0.109750712
+2012-05-01,229258.5,"Consumo (Otros, C. Personales y Nomina",0.106537691
+2012-05-01,1155715.4,Creditos a actividad empresarial,0.537067329
+2012-05-01,38073.8,Intermediarios financieros no bancarios privados,0.017693105
+2012-05-01,431104.2,Vivienda,0.198871669
+2012-06-01,65879, Bienes de consumo duradero,0.030390487
+2012-06-01,239425.4, Tarjeta de credito,0.110448771
+2012-06-01,235329.3,"Consumo (Otros, C. Personales y Nomina",0.108559208
+2012-06-01,1156918.5,Creditos a actividad empresarial,0.533695365
+2012-06-01,39094.3,Intermediarios financieros no bancarios privados,0.017905421
+2012-06-01,434890.7,Vivienda,0.199182514
+2012-07-01,66305.7, Bienes de consumo duradero,0.030368403
+2012-07-01,243488.6, Tarjeta de credito,0.11151922
+2012-07-01,240337.1,"Consumo (Otros, C. Personales y Nomina",0.110075814
+2012-07-01,1159261.5,Creditos a actividad empresarial,0.530948628
+2012-07-01,38125.8,Intermediarios financieros no bancarios privados,0.017358623
+2012-07-01,437827.6,Vivienda,0.199342294
+2012-08-01,67774.1, Bienes de consumo duradero,0.030857453
+2012-08-01,247383.4, Tarjeta de credito,0.112633316
+2012-08-01,246924.4,"Consumo (Otros, C. Personales y Nomina",0.112424334
+2012-08-01,1158325.5,Creditos a actividad empresarial,0.524245682
+2012-08-01,39014.7,Intermediarios financieros no bancarios privados,0.017657634
+2012-08-01,440868.4,Vivienda,0.199532303
+2012-09-01,67898, Bienes de consumo duradero,0.030729906
+2012-09-01,251276.2, Tarjeta de credito,0.11372491
+2012-09-01,252126.1,"Consumo (Otros, C. Personales y Nomina",0.114109565
+2012-09-01,1172250.3,Creditos a actividad empresarial,0.52369811
+2012-09-01,40681.9,Intermediarios financieros no bancarios privados,0.018174475
+2012-09-01,445549.8,Vivienda,0.199047582
+2012-10-01,68916.2, Bienes de consumo duradero,0.030788035
+2012-10-01,255061.2, Tarjeta de credito,0.113947566
+2012-10-01,255949.1,"Consumo (Otros, C. Personales y Nomina",0.113462825
+2012-10-01,1177560.4,Creditos a actividad empresarial,0.522015235
+2012-10-01,38283.7,Intermediarios financieros no bancarios privados,0.016971252
+2012-10-01,447635.9,Vivienda,0.198438024
+2012-11-01,69788.4, Bienes de consumo duradero,0.030937358
+2012-11-01,266579.5, Tarjeta de credito,0.118175306
+2012-11-01,260218.9,"Consumo (Otros, C. Personales y Nomina",0.113775956
+2012-11-01,1194907.3,Creditos a actividad empresarial,0.522451368
+2012-11-01,42341.4,Intermediarios financieros no bancarios privados,0.018513003
+2012-11-01,451877.4,Vivienda,0.19757513
+2012-12-01,70838.4, Bienes de consumo duradero,0.030972795
+2012-12-01,266933.4, Tarjeta de credito,0.115643944
+2012-12-01,260163.8,"Consumo (Otros, C. Personales y Nomina",0.112711141
+2012-12-01,1212257.4,Creditos a actividad empresarial,0.525188033
+2012-12-01,40546.7,Intermediarios financieros no bancarios privados,0.017566106
+2012-12-01,456566.6,Vivienda,0.197799011
+2013-01-01,71767.1, Bienes de consumo duradero,0.031091765
+2013-01-01,266388.5, Tarjeta de credito,0.115465378
+2013-01-01,261091.6,"Consumo (Otros, C. Personales y Nomina",0.113169451
+2013-01-01,1205711.7,Creditos a actividad empresarial,0.522612491
+2013-01-01,40349.1,Intermediarios financieros no bancarios privados,0.017489209
+2013-01-01,461359.6,Vivienda,0.199975077
 2013-02-01,72185, Bienes de consumo duradero,0.031178945
 2013-02-01,266242.1, Tarjeta de credito,0.114998236
-2013-02-01,264116.7,"Consumo (Otros, C. Personales y Nomina",0.197907536
-2013-02-01,38022,Intermediarios financieros no bancarios privados,0.52541219
-2013-02-01,458192.4,Vivienda,0.016422883
-2013-03-01,1213585.9,Creditos a actividad empresarial,0.115586199
-2013-03-01,72463.3, Bienes de consumo duradero,0.031152812
-2013-03-01,267183.9, Tarjeta de credito,0.114865453
-2013-03-01,268860.4,"Consumo (Otros, C. Personales y Nomina",0.199218447
-2013-03-01,40572.1,Intermediarios financieros no bancarios privados,0.521734631
-2013-03-01,463394,Vivienda,0.017442416
-2013-04-01,1221714.6,Creditos a actividad empresarial,0.115656036
-2013-04-01,72762.2, Bienes de consumo duradero,0.031068247
-2013-04-01,269921.6, Tarjeta de credito,0.115252024
-2013-04-01,270867.8,"Consumo (Otros, C. Personales y Nomina",0.198828332
-2013-04-01,41087.3,Intermediarios financieros no bancarios privados,0.52165177
-2013-04-01,465658.3,Vivienda,0.017543592
-2013-05-01,1234478.9,Creditos a actividad empresarial,0.115904922
-2013-05-01,73192.7, Bienes de consumo duradero,0.030991832
-2013-05-01,271322.7, Tarjeta de credito,0.114885604
-2013-05-01,273730,"Consumo (Otros, C. Personales y Nomina",0.199252811
-2013-05-01,38381.9,Intermediarios financieros no bancarios privados,0.522712821
-2013-05-01,470570.8,Vivienda,0.016251968
-2013-06-01,1242645.5,Creditos a actividad empresarial,0.116903091
-2013-06-01,73609.2, Bienes de consumo duradero,0.030917174
-2013-06-01,275433.7, Tarjeta de credito,0.115687056
-2013-06-01,278328.9,"Consumo (Otros, C. Personales y Nomina",0.197450744
-2013-06-01,40733.3,Intermediarios financieros no bancarios privados,0.521933224
-2013-06-01,470100.9,Vivienda,0.017108711
-2013-07-01,1248169.1,Creditos a actividad empresarial,0.118174748
-2013-07-01,73957.8, Bienes de consumo duradero,0.030841152
-2013-07-01,278666, Tarjeta de credito,0.116206544
-2013-07-01,283385.8,"Consumo (Otros, C. Personales y Nomina",0.197946117
-2013-07-01,39165.1,Intermediarios financieros no bancarios privados,0.520499154
-2013-07-01,474679.4,Vivienda,0.016332243
-2013-08-01,1267522.5,Creditos a actividad empresarial,0.118954111
-2013-08-01,74745.5, Bienes de consumo duradero,0.030744627
-2013-08-01,282309.7, Tarjeta de credito,0.116120787
-2013-08-01,289198,"Consumo (Otros, C. Personales y Nomina",0.197300949
-2013-08-01,37724.4,Intermediarios financieros no bancarios privados,0.52136257
-2013-08-01,479672.7,Vivienda,0.015516955
-2013-09-01,1267113,Creditos a actividad empresarial,0.119454186
-2013-09-01,74959.3, Bienes de consumo duradero,0.030722523
-2013-09-01,284140.8, Tarjeta de credito,0.116456827
-2013-09-01,291454,"Consumo (Otros, C. Personales y Nomina",0.198300327
-2013-09-01,38384.7,Intermediarios financieros no bancarios privados,0.519333935
-2013-09-01,483829.2,Vivienda,0.015732202
-2013-10-01,1282534,Creditos a actividad empresarial,0.119933159
-2013-10-01,75284, Bienes de consumo duradero,0.030595409
-2013-10-01,285883, Tarjeta de credito,0.116182819
-2013-10-01,295111.2,"Consumo (Otros, C. Personales y Nomina",0.197389401
-2013-10-01,36115.8,Intermediarios financieros no bancarios privados,0.521221674
-2013-10-01,485702.4,Vivienda,0.014677457
-2013-11-01,1300264.5,Creditos a actividad empresarial,0.119377181
-2013-11-01,75513.3, Bienes de consumo duradero,0.030168722
-2013-11-01,296957.3, Tarjeta de credito,0.118638997
-2013-11-01,298805,"Consumo (Otros, C. Personales y Nomina",0.196846801
-2013-11-01,38778.7,Intermediarios financieros no bancarios privados,0.519475614
-2013-11-01,492714,Vivienda,0.015492686
-2013-12-01,1318403.1,Creditos a actividad empresarial,0.116544466
-2013-12-01,76378.3, Bienes de consumo duradero,0.030133783
-2013-12-01,292577.6, Tarjeta de credito,0.115431606
-2013-12-01,295398.3,"Consumo (Otros, C. Personales y Nomina",0.200108236
-2013-12-01,44680.5,Intermediarios financieros no bancarios privados,0.520153925
-2013-12-01,507202.4,Vivienda,0.017627945
-2014-01-01,1305471.2,Creditos a actividad empresarial,0.11689075
-2014-01-01,76971.3, Bienes de consumo duradero,0.030534225
-2014-01-01,289281.8, Tarjeta de credito,0.114757001
-2014-01-01,294660.6,"Consumo (Otros, C. Personales y Nomina",0.20297899
-2014-01-01,42762.1,Intermediarios financieros no bancarios privados,0.517875509
-2014-01-01,511673.6,Vivienda,0.016963564
-2014-02-01,1301979.5,Creditos a actividad empresarial,0.118613101
-2014-02-01,77170.4, Bienes de consumo duradero,0.03060449
-2014-02-01,287141.3, Tarjeta de credito,0.113875438
-2014-02-01,299087.5,"Consumo (Otros, C. Personales y Nomina",0.203984988
-2014-02-01,41803.7,Intermediarios financieros no bancarios privados,0.516343296
-2014-02-01,514356,Vivienda,0.016578648
-2014-03-01,1300944.2,Creditos a actividad empresarial,0.119345256
-2014-03-01,77038.6, Bienes de consumo duradero,0.03043768
-2014-03-01,286211.6, Tarjeta de credito,0.113081198
-2014-03-01,302066.1,"Consumo (Otros, C. Personales y Nomina",0.206466718
-2014-03-01,42193.8,Intermediarios financieros no bancarios privados,0.513998486
-2014-03-01,522572.9,Vivienda,0.016670622
-2014-04-01,1310833.3,Creditos a actividad empresarial,0.119680156
-2014-04-01,76948.6, Bienes de consumo duradero,0.030231583
-2014-04-01,288122.3, Tarjeta de credito,0.113197554
-2014-04-01,304622.5,"Consumo (Otros, C. Personales y Nomina",0.205969736
-2014-04-01,40522.5,Intermediarios financieros no bancarios privados,0.515000481
-2014-04-01,524255.8,Vivienda,0.015920489
-2014-05-01,1343562.9,Creditos a actividad empresarial,0.119339734
-2014-05-01,77039, Bienes de consumo duradero,0.029731255
-2014-05-01,288304, Tarjeta de credito,0.111263641
-2014-05-01,309230.6,"Consumo (Otros, C. Personales y Nomina",0.204893842
-2014-05-01,42125.6,Intermediarios financieros no bancarios privados,0.51851414
-2014-05-01,530916.6,Vivienda,0.016257311
-2014-06-01,1342994.9,Creditos a actividad empresarial,0.120635846
-2014-06-01,77004.5, Bienes de consumo duradero,0.029649586
-2014-06-01,289238.7, Tarjeta de credito,0.111367619
-2014-06-01,313309.7,"Consumo (Otros, C. Personales y Nomina",0.20538204
-2014-06-01,41196.3,Intermediarios financieros no bancarios privados,0.517102807
-2014-06-01,533408.5,Vivienda,0.015862102
-2014-07-01,1347143.3,Creditos a actividad empresarial,0.122070577
-2014-07-01,77037.3, Bienes de consumo duradero,0.029562434
-2014-07-01,289535, Tarjeta de credito,0.11110669
-2014-07-01,318106,"Consumo (Otros, C. Personales y Nomina",0.204343213
-2014-07-01,41595.3,Intermediarios financieros no bancarios privados,0.51695523
-2014-07-01,532501.8,Vivienda,0.015961856
-2014-08-01,1355306.4,Creditos a actividad empresarial,0.122848336
-2014-08-01,77284.1, Bienes de consumo duradero,0.029434103
-2014-08-01,293774.5, Tarjeta de credito,0.111885742
-2014-08-01,322558.6,"Consumo (Otros, C. Personales y Nomina",0.204633858
-2014-08-01,39441.5,Intermediarios financieros no bancarios privados,0.516176396
-2014-08-01,537300,Vivienda,0.015021527
-2014-09-01,1358720.6,Creditos a actividad empresarial,0.123737229
-2014-09-01,77574.3, Bienes de consumo duradero,0.029410925
-2014-09-01,294055.9, Tarjeta de credito,0.111486098
-2014-09-01,326369.5,"Consumo (Otros, C. Personales y Nomina",0.205517816
-2014-09-01,38807,Intermediarios financieros no bancarios privados,0.515134906
-2014-09-01,542074.1,Vivienda,0.014712988
-2014-10-01,1374639.4,Creditos a actividad empresarial,0.12345386
-2014-10-01,77901.6, Bienes de consumo duradero,0.029267864
-2014-10-01,294580.7, Tarjeta de credito,0.110674849
-2014-10-01,328594.3,"Consumo (Otros, C. Personales y Nomina",0.205178615
-2014-10-01,39841.8,Intermediarios financieros no bancarios privados,0.516456129
-2014-10-01,546119.2,Vivienda,0.014968683
-2014-11-01,1398199.4,Creditos a actividad empresarial,0.121380239
-2014-11-01,79010.6, Bienes de consumo duradero,0.029120407
-2014-11-01,304445.4, Tarjeta de credito,0.112207399
-2014-11-01,329333.5,"Consumo (Otros, C. Personales y Nomina",0.203621783
-2014-11-01,49774.8,Intermediarios financieros no bancarios privados,0.515324972
-2014-11-01,552474.4,Vivienda,0.018345164
-2014-12-01,1426580.7,Creditos a actividad empresarial,0.119429074
-2014-12-01,80599.9, Bienes de consumo duradero,0.029410051
-2014-12-01,298023.2, Tarjeta de credito,0.108745513
-2014-12-01,327302.1,"Consumo (Otros, C. Personales y Nomina",0.203084242
-2014-12-01,51486.7,Intermediarios financieros no bancarios privados,0.520544205
-2014-12-01,556563.8,Vivienda,0.018786952
-2015-01-01,1436675.1,Creditos a actividad empresarial,0.118917001
+2013-02-01,264116.7,"Consumo (Otros, C. Personales y Nomina",0.11408021
+2013-02-01,1216426,Creditos a actividad empresarial,0.52541219
+2013-02-01,38022,Intermediarios financieros no bancarios privados,0.016422883
+2013-02-01,458192.4,Vivienda,0.197907536
+2013-03-01,72463.3, Bienes de consumo duradero,0.031152813
+2013-03-01,267183.9, Tarjeta de credito,0.114865457
+2013-03-01,268860.4,"Consumo (Otros, C. Personales y Nomina",0.115586204
+2013-03-01,1213585.9,Creditos a actividad empresarial,0.521734654
+2013-03-01,40572.1,Intermediarios financieros no bancarios privados,0.017442416
+2013-03-01,463394,Vivienda,0.198052995
+2013-04-01,72762.2, Bienes de consumo duradero,0.031098313
+2013-04-01,269921.6, Tarjeta de credito,0.11536356
+2013-04-01,270867.8,"Consumo (Otros, C. Personales y Nomina",0.115767962
+2013-04-01,1221714.6,Creditos a actividad empresarial,0.5221566
+2013-04-01,41087.3,Intermediarios financieros no bancarios privados,0.01756057
+2013-04-01,465658.3,Vivienda,0.197583721
+2013-05-01,73192.7, Bienes de consumo duradero,0.031056434
+2013-05-01,271322.7, Tarjeta de credito,0.115125079
+2013-05-01,273730,"Consumo (Otros, C. Personales y Nomina",0.116146522
+2013-05-01,1234478.9,Creditos a actividad empresarial,0.523802399
+2013-05-01,38381.9,Intermediarios financieros no bancarios privados,0.016133831
+2013-05-01,470570.8,Vivienda,0.197804428
+2013-06-01,73609.2, Bienes de consumo duradero,0.030941626
+2013-06-01,275433.7, Tarjeta de credito,0.115778551
+2013-06-01,278328.9,"Consumo (Otros, C. Personales y Nomina",0.116995548
+2013-06-01,1242645.5,Creditos a actividad empresarial,0.522346015
+2013-06-01,40733.3,Intermediarios financieros no bancarios privados,0.017007549
+2013-06-01,470100.9,Vivienda,0.196283243
+2013-07-01,73957.8, Bienes de consumo duradero,0.030879917
+2013-07-01,278666, Tarjeta de credito,0.116352609
+2013-07-01,283385.8,"Consumo (Otros, C. Personales y Nomina",0.118323288
+2013-07-01,1248169.1,Creditos a actividad empresarial,0.518285225
+2013-07-01,39165.1,Intermediarios financieros no bancarios privados,0.016262775
+2013-07-01,474679.4,Vivienda,0.197104158
+2013-08-01,74745.5, Bienes de consumo duradero,0.031037051
+2013-08-01,282309.7, Tarjeta de credito,0.117225259
+2013-08-01,289198,"Consumo (Otros, C. Personales y Nomina",0.120085532
+2013-08-01,1267522.5,Creditos a actividad empresarial,0.520441875
+2013-08-01,37724.4,Intermediarios financieros no bancarios privados,0.015489553
+2013-08-01,479672.7,Vivienda,0.196952527
+2013-09-01,74959.3, Bienes de consumo duradero,0.030778119
+2013-09-01,284140.8, Tarjeta de credito,0.116667571
+2013-09-01,291454,"Consumo (Otros, C. Personales y Nomina",0.119353079
+2013-09-01,1267113,Creditos a actividad empresarial,0.518894363
+2013-09-01,38384.7,Intermediarios financieros no bancarios privados,0.015718886
+2013-09-01,483829.2,Vivienda,0.198132483
+2013-10-01,75284, Bienes de consumo duradero,0.030829487
+2013-10-01,285883, Tarjeta de credito,0.117071703
+2013-10-01,295111.2,"Consumo (Otros, C. Personales y Nomina",0.119384741
+2013-10-01,1282534,Creditos a actividad empresarial,0.518838286
+2013-10-01,36115.8,Intermediarios financieros no bancarios privados,0.014610342
+2013-10-01,485702.4,Vivienda,0.196486799
+2013-11-01,75513.3, Bienes de consumo duradero,0.030548267
+2013-11-01,296957.3, Tarjeta de credito,0.118598011
+2013-11-01,298805,"Consumo (Otros, C. Personales y Nomina",0.119335941
+2013-11-01,1300264.5,Creditos a actividad empresarial,0.519296155
+2013-11-01,38778.7,Intermediarios financieros no bancarios privados,0.015487333
+2013-11-01,492714,Vivienda,0.196778798
+2013-12-01,76378.3, Bienes de consumo duradero,0.030503761
+2013-12-01,292577.6, Tarjeta de credito,0.115404611
+2013-12-01,295398.3,"Consumo (Otros, C. Personales y Nomina",0.11651721
+2013-12-01,1318403.1,Creditos a actividad empresarial,0.520032279
+2013-12-01,44680.5,Intermediarios financieros no bancarios privados,0.017623823
+2013-12-01,507202.4,Vivienda,0.200061438
+2014-01-01,76971.3, Bienes de consumo duradero,0.030534224
+2014-01-01,289281.8, Tarjeta de credito,0.114756996
+2014-01-01,294660.6,"Consumo (Otros, C. Personales y Nomina",0.116890746
+2014-01-01,1305471.2,Creditos a actividad empresarial,0.517875489
+2014-01-01,42762.1,Intermediarios financieros no bancarios privados,0.016963563
+2014-01-01,511673.6,Vivienda,0.202978982
+2014-02-01,77170.4, Bienes de consumo duradero,0.030604491
+2014-02-01,287141.3, Tarjeta de credito,0.113875442
+2014-02-01,299087.5,"Consumo (Otros, C. Personales y Nomina",0.118613105
+2014-02-01,1301979.5,Creditos a actividad empresarial,0.516343316
+2014-02-01,41803.7,Intermediarios financieros no bancarios privados,0.016578649
+2014-02-01,514356,Vivienda,0.203882155
+2014-03-01,77038.6, Bienes de consumo duradero,0.030536818
+2014-03-01,286211.6, Tarjeta de credito,0.113449513
+2014-03-01,302066.1,"Consumo (Otros, C. Personales y Nomina",0.119733973
+2014-03-01,1300944.2,Creditos a actividad empresarial,0.515672621
+2014-03-01,42193.8,Intermediarios financieros no bancarios privados,0.01672492
+2014-03-01,522572.9,Vivienda,0.205444394
+2014-04-01,76948.6, Bienes de consumo duradero,0.030251585
+2014-04-01,288122.3, Tarjeta de credito,0.113272447
+2014-04-01,304622.5,"Consumo (Otros, C. Personales y Nomina",0.119759338
+2014-04-01,1310833.3,Creditos a actividad empresarial,0.515341214
+2014-04-01,40522.5,Intermediarios financieros no bancarios privados,0.015688671
+2014-04-01,524255.8,Vivienda,0.202970613
+2014-05-01,77039, Bienes de consumo duradero,0.029826381
+2014-05-01,288304, Tarjeta de credito,0.111619632
+2014-05-01,309230.6,"Consumo (Otros, C. Personales y Nomina",0.119721564
+2014-05-01,1343562.9,Creditos a actividad empresarial,0.520173139
+2014-05-01,42125.6,Intermediarios financieros no bancarios privados,0.016229682
+2014-05-01,530916.6,Vivienda,0.204545633
+2014-06-01,77004.5, Bienes de consumo duradero,0.029667436
+2014-06-01,289238.7, Tarjeta de credito,0.111434664
+2014-06-01,313309.7,"Consumo (Otros, C. Personales y Nomina",0.120708471
+2014-06-01,1342994.9,Creditos a actividad empresarial,0.516084331
+2014-06-01,41196.3,Intermediarios financieros no bancarios privados,0.01583086
+2014-06-01,533408.5,Vivienda,0.204977524
+2014-07-01,77037.3, Bienes de consumo duradero,0.029603793
+2014-07-01,289535, Tarjeta de credito,0.111262133
+2014-07-01,318106,"Consumo (Otros, C. Personales y Nomina",0.122241359
+2014-07-01,1347143.3,Creditos a actividad empresarial,0.515188016
+2014-07-01,41595.3,Intermediarios financieros no bancarios privados,0.015907291
+2014-07-01,532501.8,Vivienda,0.203644665
+2014-08-01,77284.1, Bienes de consumo duradero,0.029555759
+2014-08-01,293774.5, Tarjeta de credito,0.112348183
+2014-08-01,322558.6,"Consumo (Otros, C. Personales y Nomina",0.122821602
+2014-08-01,1355306.4,Creditos a actividad empresarial,0.51606407
+2014-08-01,39441.5,Intermediarios financieros no bancarios privados,0.015018258
+2014-08-01,537300,Vivienda,0.204589327
+2014-09-01,77574.3, Bienes de consumo duradero,0.029538198
+2014-09-01,294055.9, Tarjeta de credito,0.111968544
+2014-09-01,326369.5,"Consumo (Otros, C. Personales y Nomina",0.123697272
+2014-09-01,1358720.6,Creditos a actividad empresarial,0.51496856
+2014-09-01,38807,Intermediarios financieros no bancarios privados,0.014708237
+2014-09-01,542074.1,Vivienda,0.205451451
+2014-10-01,77901.6, Bienes de consumo duradero,0.029525478
+2014-10-01,294580.7, Tarjeta de credito,0.110628755
+2014-10-01,328594.3,"Consumo (Otros, C. Personales y Nomina",0.123402444
+2014-10-01,1374639.4,Creditos a actividad empresarial,0.516241035
+2014-10-01,39841.8,Intermediarios financieros no bancarios privados,0.014962449
+2014-10-01,546119.2,Vivienda,0.205093162
+2014-11-01,79010.6, Bienes de consumo duradero,0.029672155
+2014-11-01,304445.4, Tarjeta de credito,0.112141715
+2014-11-01,329333.5,"Consumo (Otros, C. Personales y Nomina",0.121309185
+2014-11-01,1398199.4,Creditos a actividad empresarial,0.515023312
+2014-11-01,49774.8,Intermediarios financieros no bancarios privados,0.018334425
+2014-11-01,552474.4,Vivienda,0.203502587
+2014-12-01,80599.9, Bienes de consumo duradero,0.02941005
+2014-12-01,298023.2, Tarjeta de credito,0.108745509
+2014-12-01,327302.1,"Consumo (Otros, C. Personales y Nomina",0.119429069
+2014-12-01,1426580.7,Creditos a actividad empresarial,0.520544186
+2014-12-01,51486.7,Intermediarios financieros no bancarios privados,0.018786951
+2014-12-01,556563.8,Vivienda,0.203084235
 2015-01-01,81454.8, Bienes de consumo duradero,0.029562754
 2015-01-01,295635.9, Tarjeta de credito,0.107296456
-2015-01-01,327654.2,"Consumo (Otros, C. Personales y Nomina",0.204495241
-2015-01-01,50448.9,Intermediarios financieros no bancarios privados,0.521418904
-2015-01-01,563449.5,Vivienda,0.018309644
-2015-02-01,1428510.1,Creditos a actividad empresarial,0.120421933
-2015-02-01,82042.9, Bienes de consumo duradero,0.029869275
-2015-02-01,292993.7, Tarjeta de credito,0.106669919
-2015-02-01,330766.8,"Consumo (Otros, C. Personales y Nomina",0.205612837
-2015-02-01,47655.3,Intermediarios financieros no bancarios privados,0.52007622
-2015-02-01,564763.4,Vivienda,0.017349817
-2015-03-01,1461084.9,Creditos a actividad empresarial,0.12034325
-2015-03-01,82567.2, Bienes de consumo duradero,0.029594169
-2015-03-01,290448.6, Tarjeta de credito,0.104104112
-2015-03-01,335755.5,"Consumo (Otros, C. Personales y Nomina",0.204842289
-2015-03-01,48619.4,Intermediarios financieros no bancarios privados,0.523689723
-2015-03-01,571506.3,Vivienda,0.017426421
-2015-04-01,1484399.3,Creditos a actividad empresarial,0.12037911
-2015-04-01,83036.8, Bienes de consumo duradero,0.029392606
-2015-04-01,292000.2, Tarjeta de credito,0.103359555
-2015-04-01,340082,"Consumo (Otros, C. Personales y Nomina",0.203691526
-2015-04-01,50125.9,Intermediarios financieros no bancarios privados,0.525434061
-2015-04-01,575447.2,Vivienda,0.017743107
-2015-05-01,1507415,Creditos a actividad empresarial,0.120130486
-2015-05-01,83651.8, Bienes de consumo duradero,0.029200207
-2015-05-01,292976.4, Tarjeta de credito,0.102268826
-2015-05-01,344145.9,"Consumo (Otros, C. Personales y Nomina",0.202603604
-2015-05-01,56166.2,Intermediarios financieros no bancarios privados,0.526191062
-2015-05-01,580412.2,Vivienda,0.01960585
-2015-06-01,1500965,Creditos a actividad empresarial,0.121185608
-2015-06-01,84666.1, Bienes de consumo duradero,0.029537802
-2015-06-01,294000.8, Tarjeta de credito,0.102569237
-2015-06-01,347362.1,"Consumo (Otros, C. Personales y Nomina",0.204421155
-2015-06-01,53424.8,Intermediarios financieros no bancarios privados,0.523647675
-2015-06-01,585945.5,Vivienda,0.018638524
-2015-07-01,1515118.2,Creditos a actividad empresarial,0.12240026
-2015-07-01,85804.7, Bienes de consumo duradero,0.029628139
-2015-07-01,295333, Tarjeta de credito,0.101977715
-2015-07-01,354477.8,"Consumo (Otros, C. Personales y Nomina",0.20410484
-2015-07-01,54221.9,Intermediarios financieros no bancarios privados,0.523166365
-2015-07-01,591098.7,Vivienda,0.018722681
-2015-08-01,1540802.6,Creditos a actividad empresarial,0.123026911
-2015-08-01,86577.9, Bienes de consumo duradero,0.02941161
-2015-08-01,299424.4, Tarjeta de credito,0.101718263
-2015-08-01,362149.9,"Consumo (Otros, C. Personales y Nomina",0.202205068
-2015-08-01,59485.6,Intermediarios financieros no bancarios privados,0.52343017
-2015-08-01,595223.8,Vivienda,0.020208012
-2015-09-01,1587369.2,Creditos a actividad empresarial,0.122952382
-2015-09-01,87197.1, Bienes de consumo duradero,0.029039778
-2015-09-01,299715.3, Tarjeta de credito,0.099816001
-2015-09-01,369186.4,"Consumo (Otros, C. Personales y Nomina",0.200468755
-2015-09-01,57266.9,Intermediarios financieros no bancarios privados,0.528651175
-2015-09-01,601943.1,Vivienda,0.019071942
-2015-10-01,1593566.9,Creditos a actividad empresarial,0.124290749
-2015-10-01,88049.8, Bienes de consumo duradero,0.029066693
-2015-10-01,300520.8, Tarjeta de credito,0.099206879
-2015-10-01,376505.7,"Consumo (Otros, C. Personales y Nomina",0.200589357
-2015-10-01,62958.3,Intermediarios financieros no bancarios privados,0.526062748
-2015-10-01,607632,Vivienda,0.020783574
-2015-11-01,1613164.9,Creditos a actividad empresarial,0.1234519
+2015-01-01,327654.2,"Consumo (Otros, C. Personales y Nomina",0.118917001
+2015-01-01,1436675.1,Creditos a actividad empresarial,0.521418904
+2015-01-01,50448.9,Intermediarios financieros no bancarios privados,0.018309644
+2015-01-01,563449.5,Vivienda,0.20523266
+2015-02-01,82042.9, Bienes de consumo duradero,0.02988357
+2015-02-01,292993.7, Tarjeta de credito,0.106720969
+2015-02-01,330766.8,"Consumo (Otros, C. Personales y Nomina",0.120479564
+2015-02-01,1428510.1,Creditos a actividad empresarial,0.520325118
+2015-02-01,47655.3,Intermediarios financieros no bancarios privados,0.01735812
+2015-02-01,564763.4,Vivienda,0.202915883
+2015-03-01,82567.2, Bienes de consumo duradero,0.029665868
+2015-03-01,290448.6, Tarjeta de credito,0.104356327
+2015-03-01,335755.5,"Consumo (Otros, C. Personales y Nomina",0.120634807
+2015-03-01,1461084.9,Creditos a actividad empresarial,0.524958475
+2015-03-01,48619.4,Intermediarios financieros no bancarios privados,0.017243099
+2015-03-01,571506.3,Vivienda,0.202687396
+2015-04-01,83036.8, Bienes de consumo duradero,0.029449391
+2015-04-01,292000.2, Tarjeta de credito,0.103559244
+2015-04-01,340082,"Consumo (Otros, C. Personales y Nomina",0.12061168
+2015-04-01,1484399.3,Creditos a actividad empresarial,0.52644919
+2015-04-01,50125.9,Intermediarios financieros no bancarios privados,0.017564848
+2015-04-01,575447.2,Vivienda,0.201645113
+2015-05-01,83651.8, Bienes de consumo duradero,0.029312814
+2015-05-01,292976.4, Tarjeta de credito,0.102663214
+2015-05-01,344145.9,"Consumo (Otros, C. Personales y Nomina",0.120593755
+2015-05-01,1507415,Creditos a actividad empresarial,0.525227608
+2015-05-01,56166.2,Intermediarios financieros no bancarios privados,0.019569952
+2015-05-01,580412.2,Vivienda,0.202232638
+2015-06-01,84666.1, Bienes de consumo duradero,0.029500153
+2015-06-01,294000.8, Tarjeta de credito,0.102438504
+2015-06-01,347362.1,"Consumo (Otros, C. Personales y Nomina",0.121031146
+2015-06-01,1500965,Creditos a actividad empresarial,0.521902183
+2015-06-01,53424.8,Intermediarios financieros no bancarios privados,0.018576396
+2015-06-01,585945.5,Vivienda,0.203739751
+2015-07-01,85804.7, Bienes de consumo duradero,0.029835246
+2015-07-01,295333, Tarjeta de credito,0.102690561
+2015-07-01,354477.8,"Consumo (Otros, C. Personales y Nomina",0.122195005
+2015-07-01,1515118.2,Creditos a actividad empresarial,0.522289058
+2015-07-01,54221.9,Intermediarios financieros no bancarios privados,0.018691284
+2015-07-01,591098.7,Vivienda,0.203762573
+2015-08-01,86577.9, Bienes de consumo duradero,0.029844992
+2015-08-01,299424.4, Tarjeta de credito,0.103217088
+2015-08-01,362149.9,"Consumo (Otros, C. Personales y Nomina",0.122988882
+2015-08-01,1540802.6,Creditos a actividad empresarial,0.523268372
+2015-08-01,59485.6,Intermediarios financieros no bancarios privados,0.020201766
+2015-08-01,595223.8,Vivienda,0.202142564
+2015-09-01,87197.1, Bienes de consumo duradero,0.029612803
+2015-09-01,299715.3, Tarjeta de credito,0.09978766
+2015-09-01,369186.4,"Consumo (Otros, C. Personales y Nomina",0.122917472
+2015-09-01,1587369.2,Creditos a actividad empresarial,0.528501074
+2015-09-01,57266.9,Intermediarios financieros no bancarios privados,0.019066527
+2015-09-01,601943.1,Vivienda,0.200411835
+2015-10-01,88049.8, Bienes de consumo duradero,0.029315432
+2015-10-01,300520.8, Tarjeta de credito,0.099157441
+2015-10-01,376505.7,"Consumo (Otros, C. Personales y Nomina",0.124228811
+2015-10-01,1593566.9,Creditos a actividad empresarial,0.525800597
+2015-10-01,62958.3,Intermediarios financieros no bancarios privados,0.020773217
+2015-10-01,607632,Vivienda,0.200489398
 2015-11-01,89560.1, Bienes de consumo duradero,0.029045425
 2015-11-01,314274.8, Tarjeta de credito,0.101923122
-2015-11-01,380657.7,"Consumo (Otros, C. Personales y Nomina",0.198990935
-2015-11-01,72213.5,Intermediarios financieros no bancarios privados,0.523168905
-2015-11-01,613578.5,Vivienda,0.023419712
-2015-12-01,1667483.8,Creditos a actividad empresarial,0.121352027
-2015-12-01,91917.3, Bienes de consumo duradero,0.029260053
-2015-12-01,310592, Tarjeta de credito,0.098870816
-2015-12-01,381214.3,"Consumo (Otros, C. Personales y Nomina",0.197312809
-2015-12-01,70347.9,Intermediarios financieros no bancarios privados,0.530810465
-2015-12-01,619836.9,Vivienda,0.022393862
-2016-01-01,1734098.3,Creditos a actividad empresarial,0.119501528
-2016-01-01,94614.1, Bienes de consumo duradero,0.029538804
-2016-01-01,309259.6, Tarjeta de credito,0.096551768
-2016-01-01,382768.7,"Consumo (Otros, C. Personales y Nomina",0.195562197
-2016-01-01,55909.3,Intermediarios financieros no bancarios privados,0.541390653
-2016-01-01,626394.4,Vivienda,0.01745505
-2016-02-01,1735690.7,Creditos a actividad empresarial,0.119972548
-2016-02-01,95603.4, Bienes de consumo duradero,0.029782865
-2016-02-01,308574.3, Tarjeta de credito,0.096128661
-2016-02-01,385113.5,"Consumo (Otros, C. Personales y Nomina",0.195639831
-2016-02-01,57025.1,Intermediarios financieros no bancarios privados,0.54071134
-2016-02-01,628006.5,Vivienda,0.017764754
-2016-03-01,1704311.1,Creditos a actividad empresarial,0.122935284
-2016-03-01,96172, Bienes de consumo duradero,0.030129182
-2016-03-01,308999.7, Tarjeta de credito,0.096804769
-2016-03-01,392408,"Consumo (Otros, C. Personales y Nomina",0.19840777
-2016-03-01,56782.4,Intermediarios financieros no bancarios privados,0.533933989
-2016-03-01,633315.3,Vivienda,0.017789037
-2016-04-01,1716466,Creditos a actividad empresarial,0.12393476
-2016-04-01,97003.8, Bienes de consumo duradero,0.030155594
-2016-04-01,309448.5, Tarjeta de credito,0.096198327
-2016-04-01,398670.4,"Consumo (Otros, C. Personales y Nomina",0.19830235
-2016-04-01,57293.3,Intermediarios financieros no bancarios privados,0.533598186
-2016-04-01,637894.3,Vivienda,0.017810782
-2016-05-01,1753133.3,Creditos a actividad empresarial,0.12344105
-2016-05-01,97744.9, Bienes de consumo duradero,0.029860532
-2016-05-01,311100.1, Tarjeta de credito,0.095039377
-2016-05-01,404069.6,"Consumo (Otros, C. Personales y Nomina",0.197432007
-2016-05-01,61062.9,Intermediarios financieros no bancarios privados,0.535572622
-2016-05-01,646270.2,Vivienda,0.018654382
-2016-06-01,1787139.5,Creditos a actividad empresarial,0.12387683
-2016-06-01,99168.1, Bienes de consumo duradero,0.029780654
-2016-06-01,314458.8, Tarjeta de credito,0.094433479
-2016-06-01,412503.7,"Consumo (Otros, C. Personales y Nomina",0.195414472
-2016-06-01,65959.8,Intermediarios financieros no bancarios privados,0.536686522
-2016-06-01,650720.5,Vivienda,0.019808043
-2016-07-01,1826412.2,Creditos a actividad empresarial,0.123473747
-2016-07-01,100400.9, Bienes de consumo duradero,0.029602047
-2016-07-01,317880.8, Tarjeta de credito,0.093723485
-2016-07-01,418784.4,"Consumo (Otros, C. Personales y Nomina",0.19391372
-2016-07-01,70514.9,Intermediarios financieros no bancarios privados,0.538496556
-2016-07-01,657694.8,Vivienda,0.020790504
-2016-08-01,1837239.5,Creditos a actividad empresarial,0.123847931
-2016-08-01,102020, Bienes de consumo duradero,0.029857797
-2016-08-01,322579.3, Tarjeta de credito,0.094408031
-2016-08-01,423171.4,"Consumo (Otros, C. Personales y Nomina",0.193460323
-2016-08-01,70825.4,Intermediarios financieros no bancarios privados,0.537697752
-2016-08-01,661027.4,Vivienda,0.020728195
-2016-09-01,1877495.6,Creditos a actividad empresarial,0.122854457
-2016-09-01,103635.4, Bienes de consumo duradero,0.029857429
-2016-09-01,325627.4, Tarjeta de credito,0.093813476
-2016-09-01,426428.9,"Consumo (Otros, C. Personales y Nomina",0.192377473
-2016-09-01,70077.7,Intermediarios financieros no bancarios privados,0.540907761
-2016-09-01,667743.9,Vivienda,0.020189433
-2016-10-01,1886376.6,Creditos a actividad empresarial,0.122972996
+2015-11-01,380657.7,"Consumo (Otros, C. Personales y Nomina",0.1234519
+2015-11-01,1613164.9,Creditos a actividad empresarial,0.523168905
+2015-11-01,72213.5,Intermediarios financieros no bancarios privados,0.023419712
+2015-11-01,613578.5,Vivienda,0.198990935
+2015-12-01,91917.3, Bienes de consumo duradero,0.029260052
+2015-12-01,310592, Tarjeta de credito,0.098870813
+2015-12-01,381214.3,"Consumo (Otros, C. Personales y Nomina",0.121352023
+2015-12-01,1667483.8,Creditos a actividad empresarial,0.530810448
+2015-12-01,70347.9,Intermediarios financieros no bancarios privados,0.022393861
+2015-12-01,619836.9,Vivienda,0.193911916
+2016-01-01,94614.1, Bienes de consumo duradero,0.029599402
+2016-01-01,309259.6, Tarjeta de credito,0.096749841
+2016-01-01,382768.7,"Consumo (Otros, C. Personales y Nomina",0.119746682
+2016-01-01,1734098.3,Creditos a actividad empresarial,0.5425013
+2016-01-01,55909.3,Intermediarios financieros no bancarios privados,0.017490858
+2016-01-01,626394.4,Vivienda,0.195235671
+2016-02-01,95603.4, Bienes de consumo duradero,0.02979783
+2016-02-01,308574.3, Tarjeta de credito,0.096176962
+2016-02-01,385113.5,"Consumo (Otros, C. Personales y Nomina",0.12003283
+2016-02-01,1735690.7,Creditos a actividad empresarial,0.540983027
+2016-02-01,57025.1,Intermediarios financieros no bancarios privados,0.01789347
+2016-02-01,628006.5,Vivienda,0.197057355
+2016-03-01,96172, Bienes de consumo duradero,0.030177076
+2016-03-01,308999.7, Tarjeta de credito,0.096958652
+2016-03-01,392408,"Consumo (Otros, C. Personales y Nomina",0.123130704
+2016-03-01,1704311.1,Creditos a actividad empresarial,0.534782742
+2016-03-01,56782.4,Intermediarios financieros no bancarios privados,0.017679933
+2016-03-01,633315.3,Vivienda,0.19719089
+2016-04-01,97003.8, Bienes de consumo duradero,0.030203385
+2016-04-01,309448.5, Tarjeta de credito,0.096350783
+2016-04-01,398670.4,"Consumo (Otros, C. Personales y Nomina",0.124131173
+2016-04-01,1716466,Creditos a actividad empresarial,0.532308791
+2016-04-01,57293.3,Intermediarios financieros no bancarios privados,0.017767743
+2016-04-01,637894.3,Vivienda,0.197823169
+2016-05-01,97744.9, Bienes de consumo duradero,0.030312555
+2016-05-01,311100.1, Tarjeta de credito,0.096478065
+2016-05-01,404069.6,"Consumo (Otros, C. Personales y Nomina",0.125309677
+2016-05-01,1753133.3,Creditos a actividad empresarial,0.533419005
+2016-05-01,61062.9,Intermediarios financieros no bancarios privados,0.018579369
+2016-05-01,646270.2,Vivienda,0.196638103
+2016-06-01,99168.1, Bienes de consumo duradero,0.030173489
+2016-06-01,314458.8, Tarjeta de credito,0.095679148
+2016-06-01,412503.7,"Consumo (Otros, C. Personales y Nomina",0.12370391
+2016-06-01,1787139.5,Creditos a actividad empresarial,0.535937358
+2016-06-01,65959.8,Intermediarios financieros no bancarios privados,0.019780393
+2016-06-01,650720.5,Vivienda,0.195141692
+2016-07-01,100400.9, Bienes de consumo duradero,0.030108782
+2016-07-01,317880.8, Tarjeta de credito,0.095327867
+2016-07-01,418784.4,"Consumo (Otros, C. Personales y Nomina",0.123244176
+2016-07-01,1826412.2,Creditos a actividad empresarial,0.537495347
+2016-07-01,70514.9,Intermediarios financieros no bancarios privados,0.020751849
+2016-07-01,657694.8,Vivienda,0.193553183
+2016-08-01,102020, Bienes de consumo duradero,0.030023494
+2016-08-01,322579.3, Tarjeta de credito,0.094363416
+2016-08-01,423171.4,"Consumo (Otros, C. Personales y Nomina",0.123789403
+2016-08-01,1837239.5,Creditos a actividad empresarial,0.537443647
+2016-08-01,70825.4,Intermediarios financieros no bancarios privados,0.020718399
+2016-08-01,661027.4,Vivienda,0.193368898
+2016-09-01,103635.4, Bienes de consumo duradero,0.030316237
+2016-09-01,325627.4, Tarjeta de credito,0.093768213
+2016-09-01,426428.9,"Consumo (Otros, C. Personales y Nomina",0.122795182
+2016-09-01,1877495.6,Creditos a actividad empresarial,0.540646784
+2016-09-01,70077.7,Intermediarios financieros no bancarios privados,0.020179692
+2016-09-01,667743.9,Vivienda,0.192284654
 2016-10-01,105310.8, Bienes de consumo duradero,0.03011571
 2016-10-01,329291.4, Tarjeta de credito,0.0941674
-2016-10-01,430020.9,"Consumo (Otros, C. Personales y Nomina",0.192219013
-2016-10-01,73707.5,Intermediarios financieros no bancarios privados,0.539446762
-2016-10-01,672165.4,Vivienda,0.02107812
-2016-11-01,1970555.5,Creditos a actividad empresarial,0.119831628
+2016-10-01,430020.9,"Consumo (Otros, C. Personales y Nomina",0.122972996
+2016-10-01,1886376.6,Creditos a actividad empresarial,0.539446762
+2016-10-01,73707.5,Intermediarios financieros no bancarios privados,0.02107812
+2016-10-01,672165.4,Vivienda,0.192219013
 2016-11-01,107711.2, Bienes de consumo duradero,0.029858016
-2016-11-01,345608.3, Tarjeta de credito,0.095804135
-2016-11-01,432286.2,"Consumo (Otros, C. Personales y Nomina",0.188382969
-2016-11-01,71704,Intermediarios financieros no bancarios privados,0.546246617
-2016-11-01,679581.5,Vivienda,0.019876663
-2016-12-01,1968056.8,Creditos a actividad empresarial,0.118505778
-2016-12-01,111471.9, Bienes de consumo duradero,0.030859726
-2016-12-01,339767.2, Tarjeta de credito,0.09406068
-2016-12-01,428068.1,"Consumo (Otros, C. Personales y Nomina",0.190109863
-2016-12-01,78131.6,Intermediarios financieros no bancarios privados,0.54483411
-2016-12-01,686717.3,Vivienda,0.021629844
-2017-01-01,1962736.5,Creditos a actividad empresarial,0.118392256
-2017-01-01,113772.5, Bienes de consumo duradero,0.031533336
-2017-01-01,337102.8, Tarjeta de credito,0.093431856
-2017-01-01,427160.1,"Consumo (Otros, C. Personales y Nomina",0.191922904
-2017-01-01,74776,Intermediarios financieros no bancarios privados,0.543994633
-2017-01-01,692459.2,Vivienda,0.020725015
-2017-02-01,1969221.6,Creditos a actividad empresarial,0.118506386
-2017-02-01,115154.6, Bienes de consumo duradero,0.031797671
-2017-02-01,336363.9, Tarjeta de credito,0.092880254
-2017-02-01,429168.4,"Consumo (Otros, C. Personales y Nomina",0.192150495
-2017-02-01,75701.7,Intermediarios financieros no bancarios privados,0.543761691
-2017-02-01,695869,Vivienda,0.020903531
-2017-03-01,1998423.7,Creditos a actividad empresarial,0.118383995
-2017-03-01,116788.2, Bienes de consumo duradero,0.031817452
-2017-03-01,334819.8, Tarjeta de credito,0.091217373
-2017-03-01,434536.8,"Consumo (Otros, C. Personales y Nomina",0.191587084
-2017-03-01,82768.1,Intermediarios financieros no bancarios privados,0.544444985
-2017-03-01,703233.9,Vivienda,0.022549111
-2017-04-01,2038108.8,Creditos a actividad empresarial,0.117251272
-2017-04-01,117799.1, Bienes de consumo duradero,0.03159606
-2017-04-01,339112.5, Tarjeta de credito,0.090956712
-2017-04-01,437146.1,"Consumo (Otros, C. Personales y Nomina",0.189192402
-2017-04-01,90754.8,Intermediarios financieros no bancarios privados,0.546661286
-2017-04-01,705363.1,Vivienda,0.024342241
-2017-05-01,2046888.6,Creditos a actividad empresarial,0.117234891
-2017-05-01,119014.6, Bienes de consumo duradero,0.031797718
-2017-05-01,340545.9, Tarjeta de credito,0.090985328
-2017-05-01,438794.5,"Consumo (Otros, C. Personales y Nomina",0.1898575
-2017-05-01,87011.3,Intermediarios financieros no bancarios privados,0.546877325
-2017-05-01,710611.2,Vivienda,0.023247238
-2017-06-01,2075059.9,Creditos a actividad empresarial,0.117347962
-2017-06-01,121071, Bienes de consumo duradero,0.031968056
-2017-06-01,345475.7, Tarjeta de credito,0.091220742
-2017-06-01,444426,"Consumo (Otros, C. Personales y Nomina",0.188733148
-2017-06-01,86437.4,Intermediarios financieros no bancarios privados,0.547906853
-2017-06-01,714779.5,Vivienda,0.022823266
-2017-07-01,2091511.6,Creditos a actividad empresarial,0.117334758
-2017-07-01,123128, Bienes de consumo duradero,0.032227879
-2017-07-01,348423.8, Tarjeta de credito,0.091197453
-2017-07-01,448282.5,"Consumo (Otros, C. Personales y Nomina",0.188514848
-2017-07-01,88967.9,Intermediarios financieros no bancarios privados,0.547438295
-2017-07-01,720229.1,Vivienda,0.023286715
-2017-08-01,2128066.7,Creditos a actividad empresarial,0.116884655
-2017-08-01,124755.6, Bienes de consumo duradero,0.032239142
-2017-08-01,351094.1, Tarjeta de credito,0.090729173
-2017-08-01,452307.8,"Consumo (Otros, C. Personales y Nomina",0.187126288
-2017-08-01,89348.1,Intermediarios financieros no bancarios privados,0.549931576
-2017-08-01,724121.4,Vivienda,0.023089192
-2017-09-01,2141901.2,Creditos a actividad empresarial,0.116732786
+2016-11-01,345608.3, Tarjeta de credito,0.095804132
+2016-11-01,432286.2,"Consumo (Otros, C. Personales y Nomina",0.119831625
+2016-11-01,1970555.5,Creditos a actividad empresarial,0.546246602
+2016-11-01,71704,Intermediarios financieros no bancarios privados,0.019876662
+2016-11-01,679581.5,Vivienda,0.188506787
+2016-12-01,111471.9, Bienes de consumo duradero,0.030920809
+2016-12-01,339767.2, Tarjeta de credito,0.094246861
+2016-12-01,428068.1,"Consumo (Otros, C. Personales y Nomina",0.118740345
+2016-12-01,1968056.8,Creditos a actividad empresarial,0.545912541
+2016-12-01,78131.6,Intermediarios financieros no bancarios privados,0.021672657
+2016-12-01,686717.3,Vivienda,0.190634854
+2017-01-01,113772.5, Bienes de consumo duradero,0.031583599
+2017-01-01,337102.8, Tarjeta de credito,0.093580784
+2017-01-01,427160.1,"Consumo (Otros, C. Personales y Nomina",0.11858097
+2017-01-01,1962736.5,Creditos a actividad empresarial,0.544861744
+2017-01-01,74776,Intermediarios financieros no bancarios privados,0.020672665
+2017-01-01,692459.2,Vivienda,0.191438123
+2017-02-01,115154.6, Bienes de consumo duradero,0.031835782
+2017-02-01,336363.9, Tarjeta de credito,0.092991578
+2017-02-01,429168.4,"Consumo (Otros, C. Personales y Nomina",0.118648424
+2017-02-01,1969221.6,Creditos a actividad empresarial,0.544413428
+2017-02-01,75701.7,Intermediarios financieros no bancarios privados,0.020705366
+2017-02-01,695869,Vivienda,0.190328913
+2017-03-01,116788.2, Bienes de consumo duradero,0.03194304
+2017-03-01,334819.8, Tarjeta de credito,0.091577421
+2017-03-01,434536.8,"Consumo (Otros, C. Personales y Nomina",0.118851273
+2017-03-01,1998423.7,Creditos a actividad empresarial,0.543273812
+2017-03-01,82768.1,Intermediarios financieros no bancarios privados,0.022500604
+2017-03-01,703233.9,Vivienda,0.191174955
+2017-04-01,117799.1, Bienes de consumo duradero,0.032023823
+2017-04-01,339112.5, Tarjeta de credito,0.092188128
+2017-04-01,437146.1,"Consumo (Otros, C. Personales y Nomina",0.118838677
+2017-04-01,2038108.8,Creditos a actividad empresarial,0.546031933
+2017-04-01,90754.8,Intermediarios financieros no bancarios privados,0.024314217
+2017-04-01,705363.1,Vivienda,0.188974591
+2017-05-01,119014.6, Bienes de consumo duradero,0.03188533
+2017-05-01,340545.9, Tarjeta de credito,0.09123602
+2017-05-01,438794.5,"Consumo (Otros, C. Personales y Nomina",0.117016476
+2017-05-01,2046888.6,Creditos a actividad empresarial,0.54585846
+2017-05-01,87011.3,Intermediarios financieros no bancarios privados,0.023203927
+2017-05-01,710611.2,Vivienda,0.189503784
+2017-06-01,121071, Bienes de consumo duradero,0.032286872
+2017-06-01,345475.7, Tarjeta de credito,0.092130482
+2017-06-01,444426,"Consumo (Otros, C. Personales y Nomina",0.117193081
+2017-06-01,2075059.9,Creditos a actividad empresarial,0.547183699
+2017-06-01,86437.4,Intermediarios financieros no bancarios privados,0.022793143
+2017-06-01,714779.5,Vivienda,0.188484049
+2017-07-01,123128, Bienes de consumo duradero,0.032468284
+2017-07-01,348423.8, Tarjeta de credito,0.091158623
+2017-07-01,448282.5,"Consumo (Otros, C. Personales y Nomina",0.117284799
+2017-07-01,2091511.6,Creditos a actividad empresarial,0.547205207
+2017-07-01,88967.9,Intermediarios financieros no bancarios privados,0.0232768
+2017-07-01,720229.1,Vivienda,0.188434582
+2017-08-01,124755.6, Bienes de consumo duradero,0.032639988
+2017-08-01,351094.1, Tarjeta de credito,0.090705445
+2017-08-01,452307.8,"Consumo (Otros, C. Personales y Nomina",0.116854086
+2017-08-01,2128066.7,Creditos a actividad empresarial,0.549787753
+2017-08-01,89348.1,Intermediarios financieros no bancarios privados,0.023083154
+2017-08-01,724121.4,Vivienda,0.187077349
 2017-09-01,125767.8, Bienes de consumo duradero,0.032305715
 2017-09-01,351825.5, Tarjeta de credito,0.09037269
-2017-09-01,454446.7,"Consumo (Otros, C. Personales y Nomina",0.187571568
-2017-09-01,88884.2,Intermediarios financieros no bancarios privados,0.55018574
-2017-09-01,730225.7,Vivienda,0.022831501
-2017-10-01,2182953.5,Creditos a actividad empresarial,0.115692823
+2017-09-01,454446.7,"Consumo (Otros, C. Personales y Nomina",0.116732786
+2017-09-01,2141901.2,Creditos a actividad empresarial,0.55018574
+2017-09-01,88884.2,Intermediarios financieros no bancarios privados,0.022831501
+2017-09-01,730225.7,Vivienda,0.187571568
 2017-10-01,126757.2, Bienes de consumo duradero,0.032226246
-2017-10-01,353912.5, Tarjeta de credito,0.089977307
-2017-10-01,455060.7,"Consumo (Otros, C. Personales y Nomina",0.186530403
-2017-10-01,80979.2,Intermediarios financieros no bancarios privados,0.554985417
-2017-10-01,733689.9,Vivienda,0.02058783
-2017-11-01,2203275.2,Creditos a actividad empresarial,0.114755545
-2017-11-01,128850.6, Bienes de consumo duradero,0.032333757
-2017-11-01,372273.1, Tarjeta de credito,0.093418175
-2017-11-01,457302.9,"Consumo (Otros, C. Personales y Nomina",0.185776305
-2017-11-01,82994.3,Intermediarios financieros no bancarios privados,0.552889662
-2017-11-01,740321.9,Vivienda,0.020826581
-2017-12-01,2266902,Creditos a actividad empresarial,0.112199134
-2017-12-01,131314.2, Bienes de consumo duradero,0.032435158
-2017-12-01,365615.4, Tarjeta de credito,0.090308536
-2017-12-01,454239.8,"Consumo (Otros, C. Personales y Nomina",0.183988704
-2017-12-01,85561.9,Intermediarios financieros no bancarios privados,0.559934295
-2017-12-01,744880.9,Vivienda,0.021134148
-2018-01-01,2254783.2,Creditos a actividad empresarial,0.11255758
-2018-01-01,132990.1, Bienes de consumo duradero,0.032962539
-2018-01-01,363589.6, Tarjeta de credito,0.09011826
-2018-01-01,454122.9,"Consumo (Otros, C. Personales y Nomina",0.185588102
-2018-01-01,80326.4,Intermediarios financieros no bancarios privados,0.558864002
-2018-01-01,748770.6,Vivienda,0.019909468
-2018-02-01,2276951.3,Creditos a actividad empresarial,0.11256051
-2018-02-01,134019.5, Bienes de consumo duradero,0.033028395
-2018-02-01,362422, Tarjeta de credito,0.08931698
-2018-02-01,456737.4,"Consumo (Otros, C. Personales y Nomina",0.185471839
-2018-02-01,74985.2,Intermediarios financieros no bancarios privados,0.561142572
-2018-02-01,752590.1,Vivienda,0.018479705
-2018-03-01,2287705.2,Creditos a actividad empresarial,0.113172524
-2018-03-01,135304.4, Bienes de consumo duradero,0.033189798
-2018-03-01,362486.9, Tarjeta de credito,0.088917041
-2018-03-01,461368.9,"Consumo (Otros, C. Personales y Nomina",0.186180075
-2018-03-01,70823.2,Intermediarios financieros no bancarios privados,0.561167801
-2018-03-01,758997.8,Vivienda,0.017372736
-2018-04-01,2329057.7,Creditos a actividad empresarial,0.112170737
-2018-04-01,136156.8, Bienes de consumo duradero,0.03298021
-2018-04-01,364251.2, Tarjeta de credito,0.088229754
-2018-04-01,463090.1,"Consumo (Otros, C. Personales y Nomina",0.184835868
-2018-04-01,72800.1,Intermediarios financieros no bancarios privados,0.56414965
-2018-04-01,763083.7,Vivienda,0.017633806
-2018-05-01,2405745.4,Creditos a actividad empresarial,0.110339565
-2018-05-01,137366.9, Bienes de consumo duradero,0.032580769
-2018-05-01,365293.8, Tarjeta de credito,0.086640618
-2018-05-01,465213.2,"Consumo (Otros, C. Personales y Nomina",0.182786748
-2018-05-01,71911.7,Intermediarios financieros no bancarios privados,0.570596237
-2018-05-01,770664.7,Vivienda,0.017056063
-2018-06-01,2442602.9,Creditos a actividad empresarial,0.109651063
-2018-06-01,138900.7, Bienes de consumo duradero,0.032504032
-2018-06-01,368220.5, Tarjeta de credito,0.08616696
-2018-06-01,468576,"Consumo (Otros, C. Personales y Nomina",0.181791983
-2018-06-01,78179.1,Intermediarios financieros no bancarios privados,0.571591385
-2018-06-01,776858.5,Vivienda,0.018294623
-2018-07-01,2420255.9,Creditos a actividad empresarial,0.11017518
-2018-07-01,140254.5, Bienes de consumo duradero,0.032945518
-2018-07-01,369373.2, Tarjeta de credito,0.08676507
-2018-07-01,469033.9,"Consumo (Otros, C. Personales y Nomina",0.184018763
-2018-07-01,74849.2,Intermediarios financieros no bancarios privados,0.568513556
-2018-07-01,783398.2,Vivienda,0.017581936
-2018-08-01,2456996.4,Creditos a actividad empresarial,0.109688068
+2017-10-01,353912.5, Tarjeta de credito,0.089977304
+2017-10-01,455060.7,"Consumo (Otros, C. Personales y Nomina",0.11569282
+2017-10-01,2182953.5,Creditos a actividad empresarial,0.554985403
+2017-10-01,80979.2,Intermediarios financieros no bancarios privados,0.020587829
+2017-10-01,733689.9,Vivienda,0.184418983
+2017-11-01,128850.6, Bienes de consumo duradero,0.032387657
+2017-11-01,372273.1, Tarjeta de credito,0.093573902
+2017-11-01,457302.9,"Consumo (Otros, C. Personales y Nomina",0.11494684
+2017-11-01,2203275.2,Creditos a actividad empresarial,0.553811319
+2017-11-01,82994.3,Intermediarios financieros no bancarios privados,0.020861299
+2017-11-01,740321.9,Vivienda,0.183068769
+2017-12-01,131314.2, Bienes de consumo duradero,0.032471725
+2017-12-01,365615.4, Tarjeta de credito,0.090410349
+2017-12-01,454239.8,"Consumo (Otros, C. Personales y Nomina",0.112325626
+2017-12-01,2266902,Creditos a actividad empresarial,0.560565557
+2017-12-01,85561.9,Intermediarios financieros no bancarios privados,0.021200053
+2017-12-01,744880.9,Vivienda,0.184562457
+2018-01-01,132990.1, Bienes de consumo duradero,0.032951549
+2018-01-01,363589.6, Tarjeta de credito,0.090088214
+2018-01-01,454122.9,"Consumo (Otros, C. Personales y Nomina",0.112520053
+2018-01-01,2254783.2,Creditos a actividad empresarial,0.558677673
+2018-01-01,80326.4,Intermediarios financieros no bancarios privados,0.019788594
+2018-01-01,748770.6,Vivienda,0.184461367
+2018-02-01,134019.5, Bienes de consumo duradero,0.033016013
+2018-02-01,362422, Tarjeta de credito,0.089283497
+2018-02-01,456737.4,"Consumo (Otros, C. Personales y Nomina",0.112518314
+2018-02-01,2276951.3,Creditos a actividad empresarial,0.560316632
+2018-02-01,74985.2,Intermediarios financieros no bancarios privados,0.018452505
+2018-02-01,752590.1,Vivienda,0.185198845
+2018-03-01,135304.4, Bienes de consumo duradero,0.033295972
+2018-03-01,362486.9, Tarjeta de credito,0.089201486
+2018-03-01,461368.9,"Consumo (Otros, C. Personales y Nomina",0.113534562
+2018-03-01,2287705.2,Creditos a actividad empresarial,0.560571325
+2018-03-01,70823.2,Intermediarios financieros no bancarios privados,0.017354271
+2018-03-01,758997.8,Vivienda,0.185982181
+2018-04-01,136156.8, Bienes de consumo duradero,0.033363389
+2018-04-01,364251.2, Tarjeta de credito,0.089254847
+2018-04-01,463090.1,"Consumo (Otros, C. Personales y Nomina",0.112109561
+2018-04-01,2329057.7,Creditos a actividad empresarial,0.563841974
+2018-04-01,72800.1,Intermediarios financieros no bancarios privados,0.017624189
+2018-04-01,763083.7,Vivienda,0.184735062
+2018-05-01,137366.9, Bienes de consumo duradero,0.033255176
+2018-05-01,365293.8, Tarjeta de credito,0.088434038
+2018-05-01,465213.2,"Consumo (Otros, C. Personales y Nomina",0.110222955
+2018-05-01,2405745.4,Creditos a actividad empresarial,0.569993216
+2018-05-01,71911.7,Intermediarios financieros no bancarios privados,0.017038038
+2018-05-01,770664.7,Vivienda,0.182593574
+2018-06-01,138900.7, Bienes de consumo duradero,0.03290974
+2018-06-01,368220.5, Tarjeta de credito,0.086139666
+2018-06-01,468576,"Consumo (Otros, C. Personales y Nomina",0.109616331
+2018-06-01,2442602.9,Creditos a actividad empresarial,0.571410335
+2018-06-01,78179.1,Intermediarios financieros no bancarios privados,0.018288829
+2018-06-01,776858.5,Vivienda,0.181734401
+2018-07-01,140254.5, Bienes de consumo duradero,0.032810438
+2018-07-01,369373.2, Tarjeta de credito,0.08673112
+2018-07-01,469033.9,"Consumo (Otros, C. Personales y Nomina",0.110132071
+2018-07-01,2420255.9,Creditos a actividad empresarial,0.568291108
+2018-07-01,74849.2,Intermediarios financieros no bancarios privados,0.017575057
+2018-07-01,783398.2,Vivienda,0.18394676
 2018-08-01,141920.8, Bienes de consumo duradero,0.032989295
-2018-08-01,370800.3, Tarjeta de credito,0.086192021
-2018-08-01,471880.9,"Consumo (Otros, C. Personales y Nomina",0.183278283
-2018-08-01,71959.6,Intermediarios financieros no bancarios privados,0.571125445
-2018-08-01,788467.9,Vivienda,0.01672691
-2018-09-01,2461537.1,Creditos a actividad empresarial,0.109780756
-2018-09-01,143048.8, Bienes de consumo duradero,0.033044354
-2018-09-01,374200.6, Tarjeta de credito,0.086440551
-2018-09-01,475240.2,"Consumo (Otros, C. Personales y Nomina",0.1842932
-2018-09-01,77163.1,Intermediarios financieros no bancarios privados,0.568616466
-2018-09-01,797804.1,Vivienda,0.01782472
-2018-10-01,2511314.5,Creditos a actividad empresarial,0.108592193
-2018-10-01,144053.5, Bienes de consumo duradero,0.032800154
-2018-10-01,374725.2, Tarjeta de credito,0.085322774
-2018-10-01,476921.1,"Consumo (Otros, C. Personales y Nomina",0.182852259
-2018-10-01,81779.6,Intermediarios financieros no bancarios privados,0.571811875
-2018-10-01,803060.5,Vivienda,0.018620745
-2018-11-01,2536995.8,Creditos a actividad empresarial,0.107756627
-2018-11-01,146165.8, Bienes de consumo duradero,0.032812689
-2018-11-01,393952.5, Tarjeta de credito,0.088438204
-2018-11-01,480007.4,"Consumo (Otros, C. Personales y Nomina",0.182244491
-2018-11-01,85612.2,Intermediarios financieros no bancarios privados,0.569528948
-2018-11-01,811817.4,Vivienda,0.019219041
-2018-12-01,2527801.2,Creditos a actividad empresarial,0.107194441
-2018-12-01,148426.6, Bienes de consumo duradero,0.033327168
-2018-12-01,386320.6, Tarjeta de credito,0.086743019
-2018-12-01,477403.5,"Consumo (Otros, C. Personales y Nomina",0.183554899
-2018-12-01,96185.7,Intermediarios financieros no bancarios privados,0.567583264
-2018-12-01,817484.1,Vivienda,0.021597186
-2019-01-01,2515566.3,Creditos a actividad empresarial,0.107724099
-2019-01-01,149944.5, Bienes de consumo duradero,0.033765643
-2019-01-01,381856.3, Tarjeta de credito,0.085989307
-2019-01-01,478374.9,"Consumo (Otros, C. Personales y Nomina",0.185241015
-2019-01-01,92392.2,Intermediarios financieros no bancarios privados,0.566474357
-2019-01-01,822607.5,Vivienda,0.020805578
-2019-02-01,2544680.1,Creditos a actividad empresarial,0.107489936
-2019-02-01,150844.8, Bienes de consumo duradero,0.03372004
-2019-02-01,379545, Tarjeta de credito,0.084843975
-2019-02-01,480850.5,"Consumo (Otros, C. Personales y Nomina",0.184874942
-2019-02-01,90498.2,Intermediarios financieros no bancarios privados,0.568841046
-2019-02-01,827028.2,Vivienda,0.020230083
-2019-03-01,2595105.8,Creditos a actividad empresarial,0.106939547
-2019-03-01,151964.7, Bienes de consumo duradero,0.0335083
-2019-03-01,379271.4, Tarjeta de credito,0.083629552
-2019-03-01,484985.4,"Consumo (Otros, C. Personales y Nomina",0.184763915
-2019-03-01,85879.1,Intermediarios financieros no bancarios privados,0.572222254
-2019-03-01,837929.5,Vivienda,0.018936389
-2019-04-01,2610665.8,Creditos a actividad empresarial,0.106809048
-2019-04-01,153073.9, Bienes de consumo duradero,0.03355861
-2019-04-01,380474.5, Tarjeta de credito,0.083411968
-2019-04-01,487197.7,"Consumo (Otros, C. Personales y Nomina",0.184508743
-2019-04-01,88361.5,Intermediarios financieros no bancarios privados,0.572339992
-2019-04-01,841616.3,Vivienda,0.019371618
-2019-05-01,2641501.1,Creditos a actividad empresarial,0.106278799
-2019-05-01,154205.3, Bienes de consumo duradero,0.033484582
-2019-05-01,383326.4, Tarjeta de credito,0.083236596
-2019-05-01,489441.8,"Consumo (Otros, C. Personales y Nomina",0.185002124
-2019-05-01,84804.8,Intermediarios financieros no bancarios privados,0.573583141
-2019-05-01,851983.4,Vivienda,0.018414758
-2019-06-01,2652424.5,Creditos a actividad empresarial,0.106103859
-2019-06-01,155404.8, Bienes de consumo duradero,0.033532272
-2019-06-01,388662.8, Tarjeta de credito,0.08386322
-2019-06-01,491736.7,"Consumo (Otros, C. Personales y Nomina",0.185409031
-2019-06-01,86980.5,Intermediarios financieros no bancarios privados,0.572323511
-2019-06-01,859275.3,Vivienda,0.018768106
-2019-07-01,2634445.3,Creditos a actividad empresarial,0.106721491
+2018-08-01,370800.3, Tarjeta de credito,0.086192019
+2018-08-01,471880.9,"Consumo (Otros, C. Personales y Nomina",0.109688066
+2018-08-01,2456996.4,Creditos a actividad empresarial,0.571125432
+2018-08-01,71959.6,Intermediarios financieros no bancarios privados,0.01672691
+2018-08-01,788467.9,Vivienda,0.183278278
+2018-09-01,143048.8, Bienes de consumo duradero,0.033044352
+2018-09-01,374200.6, Tarjeta de credito,0.086440547
+2018-09-01,475240.2,"Consumo (Otros, C. Personales y Nomina",0.109780751
+2018-09-01,2461537.1,Creditos a actividad empresarial,0.56861644
+2018-09-01,77163.1,Intermediarios financieros no bancarios privados,0.017824719
+2018-09-01,797804.1,Vivienda,0.181873083
+2018-10-01,144053.5, Bienes de consumo duradero,0.032839458
+2018-10-01,374725.2, Tarjeta de credito,0.085425015
+2018-10-01,476921.1,"Consumo (Otros, C. Personales y Nomina",0.108722317
+2018-10-01,2511314.5,Creditos a actividad empresarial,0.572497069
+2018-10-01,81779.6,Intermediarios financieros no bancarios privados,0.018643058
+2018-10-01,803060.5,Vivienda,0.180633755
+2018-11-01,146165.8, Bienes de consumo duradero,0.03287732
+2018-11-01,393952.5, Tarjeta de credito,0.088612401
+2018-11-01,480007.4,"Consumo (Otros, C. Personales y Nomina",0.107968875
+2018-11-01,2536995.8,Creditos a actividad empresarial,0.570650751
+2018-11-01,85612.2,Intermediarios financieros no bancarios privados,0.019293405
+2018-11-01,811817.4,Vivienda,0.182949652
+2018-12-01,148426.6, Bienes de consumo duradero,0.033449141
+2018-12-01,386320.6, Tarjeta de credito,0.087060488
+2018-12-01,477403.5,"Consumo (Otros, C. Personales y Nomina",0.10758676
+2018-12-01,2527801.2,Creditos a actividad empresarial,0.569660553
+2018-12-01,96185.7,Intermediarios financieros no bancarios privados,0.021666316
+2018-12-01,817484.1,Vivienda,0.184142435
+2019-01-01,149944.5, Bienes de consumo duradero,0.033775758
+2019-01-01,381856.3, Tarjeta de credito,0.086015066
+2019-01-01,478374.9,"Consumo (Otros, C. Personales y Nomina",0.10775637
+2019-01-01,2515566.3,Creditos a actividad empresarial,0.566338586
+2019-01-01,92392.2,Intermediarios financieros no bancarios privados,0.020800592
+2019-01-01,822607.5,Vivienda,0.185196617
+2019-02-01,150844.8, Bienes de consumo duradero,0.033960238
+2019-02-01,379545, Tarjeta de credito,0.085448346
+2019-02-01,480850.5,"Consumo (Otros, C. Personales y Nomina",0.108255621
+2019-02-01,2544680.1,Creditos a actividad empresarial,0.568208331
+2019-02-01,90498.2,Intermediarios financieros no bancarios privados,0.020207582
+2019-02-01,827028.2,Vivienda,0.184669308
+2019-03-01,151964.7, Bienes de consumo duradero,0.033932599
+2019-03-01,379271.4, Tarjeta de credito,0.084688511
+2019-03-01,484985.4,"Consumo (Otros, C. Personales y Nomina",0.106885055
+2019-03-01,2595105.8,Creditos a actividad empresarial,0.571930672
+2019-03-01,85879.1,Intermediarios financieros no bancarios privados,0.018926739
+2019-03-01,837929.5,Vivienda,0.184669767
+2019-04-01,153073.9, Bienes de consumo duradero,0.03373568
+2019-04-01,380474.5, Tarjeta de credito,0.083852087
+2019-04-01,487197.7,"Consumo (Otros, C. Personales y Nomina",0.106715859
+2019-04-01,2610665.8,Creditos a actividad empresarial,0.571840636
+2019-04-01,88361.5,Intermediarios financieros no bancarios privados,0.019354716
+2019-04-01,841616.3,Vivienda,0.184347763
+2019-05-01,154205.3, Bienes de consumo duradero,0.033777152
+2019-05-01,383326.4, Tarjeta de credito,0.083214922
+2019-05-01,489441.8,"Consumo (Otros, C. Personales y Nomina",0.106251125
+2019-05-01,2641501.1,Creditos a actividad empresarial,0.573433782
+2019-05-01,84804.8,Intermediarios financieros no bancarios privados,0.018409963
+2019-05-01,851983.4,Vivienda,0.18495395
+2019-06-01,155404.8, Bienes de consumo duradero,0.033736258
+2019-06-01,388662.8, Tarjeta de credito,0.0838419
+2019-06-01,491736.7,"Consumo (Otros, C. Personales y Nomina",0.106076885
+2019-06-01,2652424.5,Creditos a actividad empresarial,0.572178013
+2019-06-01,86980.5,Intermediarios financieros no bancarios privados,0.018763335
+2019-06-01,859275.3,Vivienda,0.185361896
 2019-07-01,156583.3, Bienes de consumo duradero,0.033838319
 2019-07-01,389333, Tarjeta de credito,0.084136521
-2019-07-01,493842.6,"Consumo (Otros, C. Personales y Nomina",0.187507855
-2019-07-01,85518.7,Intermediarios financieros no bancarios privados,0.569314859
-2019-07-01,867673.1,Vivienda,0.018480956
-2019-08-01,2682230.7,Creditos a actividad empresarial,0.106153076
+2019-07-01,493842.6,"Consumo (Otros, C. Personales y Nomina",0.106721491
+2019-07-01,2634445.3,Creditos a actividad empresarial,0.569314859
+2019-07-01,85518.7,Intermediarios financieros no bancarios privados,0.018480956
+2019-07-01,867673.1,Vivienda,0.187507855
 2019-08-01,157759.2, Bienes de consumo duradero,0.033645772
 2019-08-01,392855.9, Tarjeta de credito,0.083785541
-2019-08-01,497733.4,"Consumo (Otros, C. Personales y Nomina",0.186679252
-2019-08-01,82941,Intermediarios financieros no bancarios privados,0.572047285
-2019-08-01,875306.7,Vivienda,0.017689073
-2019-09-01,2641067.4,Creditos a actividad empresarial,0.106942004
-2019-09-01,158649.1, Bienes de consumo duradero,0.034021744
-2019-09-01,395616.5, Tarjeta de credito,0.084838574
-2019-09-01,498688.5,"Consumo (Otros, C. Personales y Nomina",0.189277087
-2019-09-01,86515.5,Intermediarios financieros no bancarios privados,0.566367665
-2019-09-01,882630.8,Vivienda,0.018552946
-2019-10-01,2611805.6,Creditos a actividad empresarial,0.108016039
-2019-10-01,159502.7, Bienes de consumo duradero,0.034361782
-2019-10-01,396382.1, Tarjeta de credito,0.085392883
-2019-10-01,501395.7,"Consumo (Otros, C. Personales y Nomina",0.191566645
-2019-10-01,83551.1,Intermediarios financieros no bancarios privados,0.562663175
-2019-10-01,889226.2,Vivienda,0.017999474
-2019-11-01,2646204.4,Creditos a actividad empresarial,0.106262789
-2019-11-01,161640.9, Bienes de consumo duradero,0.034289575
-2019-11-01,418327.5, Tarjeta de credito,0.088741601
-2019-11-01,500922.3,"Consumo (Otros, C. Personales y Nomina",0.19079204
-2019-11-01,87507.6,Intermediarios financieros no bancarios privados,0.561350654
-2019-11-01,899392.8,Vivienda,0.018563361
-2019-12-01,2606160.8,Creditos a actividad empresarial,0.106183545
-2019-12-01,163445.3, Bienes de consumo duradero,0.034980128
-2019-12-01,406523, Tarjeta de credito,0.087002969
-2019-12-01,496144.6,"Consumo (Otros, C. Personales y Nomina",0.193604725
-2019-12-01,95623.2,Intermediarios financieros no bancarios privados,0.557763589
-2019-12-01,904621.7,Vivienda,0.020465022
-2020-01-01,2610713.9,Creditos a actividad empresarial,0.105844889
-2020-01-01,164568.2, Bienes de consumo duradero,0.035230992
-2020-01-01,400955.3, Tarjeta de credito,0.085837076
-2020-01-01,494414.2,"Consumo (Otros, C. Personales y Nomina",0.194475449
-2020-01-01,92050.4,Intermediarios financieros no bancarios privados,0.558905314
-2020-01-01,908418.2,Vivienda,0.019706279
-2020-02-01,2648518.6,Creditos a actividad empresarial,0.105125864
-2020-02-01,165097.8, Bienes de consumo duradero,0.035032003
-2020-02-01,399138.4, Tarjeta de credito,0.084692937
-2020-02-01,495434.1,"Consumo (Otros, C. Personales y Nomina",0.193853943
-2020-02-01,90992.8,Intermediarios financieros no bancarios privados,0.561987568
-2020-02-01,913589.2,Vivienda,0.019307707
+2019-08-01,497733.4,"Consumo (Otros, C. Personales y Nomina",0.106153076
+2019-08-01,2682230.7,Creditos a actividad empresarial,0.572047285
+2019-08-01,82941,Intermediarios financieros no bancarios privados,0.017689073
+2019-08-01,875306.7,Vivienda,0.188001736
+2019-09-01,158649.1, Bienes de consumo duradero,0.034075263
+2019-09-01,395616.5, Tarjeta de credito,0.084972032
+2019-09-01,498688.5,"Consumo (Otros, C. Personales y Nomina",0.107110232
+2019-09-01,2641067.4,Creditos a actividad empresarial,0.567258604
+2019-09-01,86515.5,Intermediarios financieros no bancarios privados,0.018582132
+2019-09-01,882630.8,Vivienda,0.190416347
+2019-10-01,159502.7, Bienes de consumo duradero,0.034410675
+2019-10-01,396382.1, Tarjeta de credito,0.085514387
+2019-10-01,501395.7,"Consumo (Otros, C. Personales y Nomina",0.108169733
+2019-10-01,2611805.6,Creditos a actividad empresarial,0.563463774
+2019-10-01,83551.1,Intermediarios financieros no bancarios privados,0.017777312
+2019-10-01,889226.2,Vivienda,0.1892022
+2019-11-01,161640.9, Bienes de consumo duradero,0.034392615
+2019-11-01,418327.5, Tarjeta de credito,0.089008268
+2019-11-01,500922.3,"Consumo (Otros, C. Personales y Nomina",0.106582106
+2019-11-01,2646204.4,Creditos a actividad empresarial,0.563037499
+2019-11-01,87507.6,Intermediarios financieros no bancarios privados,0.018781784
+2019-11-01,899392.8,Vivienda,0.193036959
+2019-12-01,163445.3, Bienes de consumo duradero,0.035080316
+2019-12-01,406523, Tarjeta de credito,0.087252159
+2019-12-01,496144.6,"Consumo (Otros, C. Personales y Nomina",0.106487671
+2019-12-01,2606160.8,Creditos a actividad empresarial,0.558501717
+2019-12-01,95623.2,Intermediarios financieros no bancarios privados,0.020492105
+2019-12-01,904621.7,Vivienda,0.193860936
+2020-01-01,164568.2, Bienes de consumo duradero,0.035267057
+2020-01-01,400955.3, Tarjeta de credito,0.085924945
+2020-01-01,494414.2,"Consumo (Otros, C. Personales y Nomina",0.10595324
+2020-01-01,2610713.9,Creditos a actividad empresarial,0.55893731
+2020-01-01,92050.4,Intermediarios financieros no bancarios privados,0.019707408
+2020-01-01,908418.2,Vivienda,0.194486583
+2020-02-01,165097.8, Bienes de consumo duradero,0.035346393
+2020-02-01,399138.4, Tarjeta de credito,0.085453003
+2020-02-01,495434.1,"Consumo (Otros, C. Personales y Nomina",0.119423878
+2020-02-01,2648518.6,Creditos a actividad empresarial,0.63842267
+2020-02-01,90992.8,Intermediarios financieros no bancarios privados,0.02193372
+2020-02-01,913589.2,Vivienda,0.220219732
